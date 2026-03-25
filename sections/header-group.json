@@ -30,8 +30,8 @@
         "enable_sticky_announcement_bar": "desktop-and-mobile",
         "autoplay_enabled": true,
         "autoplay_delay": 4,
-        "color_background": "#faf7c3",
-        "color_text": "#242526"
+        "color_background": "#1a1714",
+        "color_text": "#e8e4df"
       }
     },
     "header": {
@@ -108,13 +108,16 @@
         "menu": "main-menu",
         "secondary_menu": "",
         "featured_link_label": "",
-        "featured_link_color": "#f7f7e8",
+        "featured_link_color": "#e8e4df",
         "enable_transparent_on_home": true,
         "enable_transparent_template_list": "",
-        "color_text_transparent": "#ffffff",
+        "color_text_transparent": "#e8e4df",
         "color_count_transparent": "#000000"
       }
     }
   },
-  "order": ["announcement-bar", "header"]
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
 }

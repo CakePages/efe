@@ -102,10 +102,10 @@
         "row_spacing_mobile": 20,
         "column_alignment_mobile": "left",
         "background_behind_columns": false,
-        "background_color": "#f7f7e8",
-        "text_color": "#000000",
-        "button_background_color": "#000000",
-        "button_text_color": "#ffffff",
+        "background_color": "#f0ece8",
+        "text_color": "#3d352f",
+        "button_background_color": "#3d352f",
+        "button_text_color": "#fcfcf9",
         "enable_animation": true,
         "divider_style": "none",
         "section_padding": "section--vertical-padding-top-bottom"
@@ -129,7 +129,12 @@
             "enable_follow_on_shop": false
           }
         },
-        "footer-1": { "type": "spacer", "settings": { "desktop_width": 20 } },
+        "footer-1": {
+          "type": "spacer",
+          "settings": {
+            "desktop_width": 20
+          }
+        },
         "footer-2": {
           "type": "links",
           "settings": {
@@ -167,11 +172,15 @@
         },
         "3ee4ef35-e03a-4eb7-88f8-89d62abde1b2": {
           "type": "spacer",
-          "settings": { "desktop_width": 100 }
+          "settings": {
+            "desktop_width": 100
+          }
         },
         "263e7a92-4801-4587-8776-772350a4af66": {
           "type": "spacer",
-          "settings": { "desktop_width": 100 }
+          "settings": {
+            "desktop_width": 100
+          }
         }
       },
       "block_order": [
@@ -191,5 +200,8 @@
       }
     }
   },
-  "order": ["multi_column_WDjz9q", "footer"]
+  "order": [
+    "multi_column_WDjz9q",
+    "footer"
+  ]
 }
