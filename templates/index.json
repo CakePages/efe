@@ -702,7 +702,7 @@
         "focal_point": "center",
         "mobile_focal_point": "center",
         "media_link": "",
-        "text_position": "flex-start_flex-start",
+        "text_position": "flex-start_flex-end",
         "text_position_mobile": "center_center",
         "text_color": "#ffffff",
         "button_background_color": "#ffffff",
