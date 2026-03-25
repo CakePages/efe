@@ -15,6 +15,7 @@
         "image-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/efemera-lifestyle-v7-02-ebb-flow-body-cream-dress.jpg",
             "focal_point": "top",
             "mobile_focal_point": "image_presentation",
             "title": "Echoes",
@@ -28,7 +29,7 @@
         "image-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/efemera-lifestyle-homepage-02-split-hero-draped.jpg",
+            "image": "shopify://shop_images/efemera-lifestyle-v7-13-starry-plum-velvet-hand.jpg",
             "focal_point": "top",
             "mobile_focal_point": "center",
             "title": "Draped in Time",
