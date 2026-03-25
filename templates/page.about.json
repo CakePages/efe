@@ -21,6 +21,12 @@
     "video_hero": {
       "type": "video-hero",
       "blocks": {
+        "spacer1": {
+          "type": "spacer",
+          "settings": {
+            "space": 12
+          }
+        },
         "accent": {
           "type": "accent",
           "settings": {
@@ -35,7 +41,7 @@
             "heading_font_class": "fs-heading-display-2"
           }
         },
-        "spacer": {
+        "spacer2": {
           "type": "spacer",
           "settings": {
             "space": 8
@@ -50,15 +56,16 @@
         }
       },
       "block_order": [
+        "spacer1",
         "accent",
         "heading",
-        "spacer",
+        "spacer2",
         "text"
       ],
       "settings": {
         "image_aspect": "custom",
         "desktop_height": 80,
-        "mobile_height": 50,
+        "mobile_height": 90,
         "media_link": "",
         "focal_point": "image_presentation",
         "focal_point_mobile": "image_presentation",
@@ -69,7 +76,7 @@
         "button_text_color": "#000000",
         "color_overlay": "#000000",
         "color_overlay_gradient": "",
-        "overlay_opacity": 30,
+        "overlay_opacity": 25,
         "enable_animation": true,
         "section_padding": "section--vertical-padding-none"
       }
@@ -77,16 +84,22 @@
     "rich_text-1": {
       "type": "rich-text",
       "blocks": {
-        "spacer-1": {
+        "spacer1": {
           "type": "spacer",
           "settings": {
-            "space": 40
+            "space": 48
           }
         },
         "accent": {
           "type": "accent",
           "settings": {
-            "accent": "Story"
+            "accent": "OUR STORY"
+          }
+        },
+        "spacer2": {
+          "type": "spacer",
+          "settings": {
+            "space": 24
           }
         },
         "heading": {
@@ -97,33 +110,27 @@
             "heading_font_class": "fs-heading-1-base"
           }
         },
-        "spacer-2": {
-          "type": "spacer",
-          "settings": {
-            "space": 12
-          }
-        },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>The name comes from <em>ephemeral</em>. A laugh, a glance that lingers, a touch — moments that pass in an instant yet leave lasting impressions. The adornments you wear become quiet witnesses to those memories.</p>",
+            "text": "<p>A laugh, a glance that lingers, a familiar scent, a gentle touch — moments that pass in an instant yet leave lasting impressions on the heart.</p><p>The name itself comes from <em>ephemeral</em> — a reminder that the most meaningful things in life are often the most transient. We believe the adornments you wear become quiet witnesses to those memories, letting the joy of past moments sparkle again whenever you see them.</p>",
             "text_font_class": "fs-body-100"
           }
         },
-        "spacer-3": {
+        "spacer3": {
           "type": "spacer",
           "settings": {
-            "space": 40
+            "space": 48
           }
         }
       },
       "block_order": [
-        "spacer-1",
+        "spacer1",
         "accent",
+        "spacer2",
         "heading",
-        "spacer-2",
         "text",
-        "spacer-3"
+        "spacer3"
       ],
       "settings": {
         "alignment": "left_left",
@@ -131,7 +138,7 @@
         "divider_style": "none",
         "section_padding": "section--vertical-padding-top-bottom",
         "content_width": "full",
-        "custom_content_width": 700
+        "custom_content_width": 800
       }
     },
     "image_with_text_split": {
@@ -140,52 +147,52 @@
         "accent": {
           "type": "accent",
           "settings": {
-            "accent": "THE CRAFT"
+            "accent": "HANDMADE IN NEW YORK CITY"
           }
         },
         "heading": {
           "type": "heading",
           "settings": {
-            "title": "Handmade in New York City",
+            "title": "The city is the studio",
             "heading_tag": "h2",
             "heading_font_class": "fs-heading-display-3"
           }
         },
-        "spacer": {
-          "type": "spacer",
-          "settings": {
-            "space": 16
-          }
-        },
         "subheading": {
           "type": "subheading",
-          "disabled": true,
           "settings": {
-            "subheading": "Lost-wax casting. Hand-carved wax. Bench-finished by hand.",
-            "subheading_tag": "h3",
+            "subheading": "<p>SoHo cobblestones. Cast-iron galleries. The energy of a city that never stops making.</p>",
             "subheading_font_class": "fs-heading-5-base"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Every piece is made to order — nothing sits in inventory. Each begins as hand-carved wax, cast in molten 14k gold, then filed, sanded, and polished by hand. Stones are set individually, bezels pushed by feel. The 3–4 week lead time means your piece was made for this moment in your life.</p>",
+            "text": "<p>Every Efemera piece is handcrafted in New York City. Each begins as hand-carved wax, cast in molten 14k gold using lost-wax casting — the same technique goldsmiths have used since 3000 BCE. Then filed, sanded through progressively finer grits, and polished by hand at the bench.</p><p>Nothing sits in inventory. Each piece is made to order, crafted specifically for you. This means a 3–4 week production time, but it also means your piece carries the intention and care of being made just for this moment in your life.</p>",
             "text_font_class": "fs-body-100"
+          }
+        },
+        "button": {
+          "type": "button",
+          "settings": {
+            "link": "/collections/all",
+            "link_text": "Shop the collection",
+            "button_style": "btn--callout"
           }
         }
       },
       "block_order": [
         "accent",
         "heading",
-        "spacer",
         "subheading",
-        "text"
+        "text",
+        "button"
       ],
       "settings": {
         "image_position": "right",
         "image_mobile_position": "above-content",
         "image_padding": "none",
-        "image": "shopify://shop_images/efemera-keep-generated-homepage-09-about-artisan-v2.jpg",
+        "image": "shopify://shop_images/efemera-nyc-culture.jpg",
         "aspect_ratio": "square",
         "focal_point": "image_presentation",
         "content_alignment": "left",
@@ -200,47 +207,61 @@
     "rich_text-2": {
       "type": "rich-text",
       "blocks": {
-        "spacer-1": {
+        "spacer1": {
           "type": "spacer",
           "settings": {
-            "space": 40
+            "space": 48
+          }
+        },
+        "accent": {
+          "type": "accent",
+          "settings": {
+            "accent": "THE DESIGN"
+          }
+        },
+        "spacer2": {
+          "type": "spacer",
+          "settings": {
+            "space": 24
           }
         },
         "heading": {
           "type": "heading",
           "settings": {
-            "title": "Materials",
+            "title": "Every piece of Efemera jewelry is designed as a small sculpture.",
             "heading_tag": "h2",
-            "heading_font_class": "fs-heading-2-base"
-          }
-        },
-        "spacer-2": {
-          "type": "spacer",
-          "settings": {
-            "space": 20
+            "heading_font_class": "fs-heading-1-base"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>We go deeper on every material we use. Not just what — but why.</p>",
+            "text": "<p>We favor asymmetry, subtle tension, and forms that feel alive rather than static. Every curve and edge serves a deliberate purpose — nothing is accidental, yet nothing feels forced.</p><p>Each piece is designed with intention. From the materials, to the emotions and meaning. We believe beauty is not only in the sparkle of gold or pearls, but in the story each piece comes to hold for the one who wears it.</p>",
             "text_font_class": "fs-body-100"
+          }
+        },
+        "spacer3": {
+          "type": "spacer",
+          "settings": {
+            "space": 48
           }
         }
       },
       "block_order": [
-        "spacer-1",
+        "spacer1",
+        "accent",
+        "spacer2",
         "heading",
-        "spacer-2",
-        "text"
+        "text",
+        "spacer3"
       ],
       "settings": {
-        "alignment": "center_center",
+        "alignment": "left_left",
         "enable_animation": true,
         "divider_style": "none",
         "section_padding": "section--vertical-padding-top-bottom",
-        "content_width": "custom",
-        "custom_content_width": 850
+        "content_width": "full",
+        "custom_content_width": 800
       }
     },
     "gallery_carousel": {
@@ -252,7 +273,7 @@
             "image": "shopify://shop_images/efemera-keep-generated-v5-symphonia-neck-intimate.jpg",
             "focal_point": "image_presentation",
             "title": "14k Yellow Gold",
-            "text": "<p>58.3% pure gold alloyed with copper and silver. Harder than 18k, so organic textures survive daily wear. The alloy flows better when molten — filling the finest sculptural details that softer gold can't reach.</p>"
+            "text": "<p>58.3% pure gold alloyed with copper and silver. Harder than 18k, so delicate organic tendrils survive daily wear. The alloy flows better when molten, filling the finest sculptural details. A warm buttery tone that looks like it grew rather than was manufactured.</p>"
           }
         },
         "image-2": {
@@ -261,7 +282,7 @@
             "image": "shopify://shop_images/efemera-keep-generated-product-lifestyle-gaia-macro-1.jpg",
             "focal_point": "image_presentation",
             "title": "Freshwater Pearls",
-            "text": "<p>Solid nacre all the way through — not a coated bead. Thousands of microscopic layers create luster through the same physics that makes the sky blue. We choose baroque shapes because they belong in nature, not a display case.</p>"
+            "text": "<p>Solid nacre all the way through. Thousands of microscopic aragonite layers create luster through the same physics that makes the sky blue. No two pearls reflect light identically. We choose baroque shapes because they belong in nature, not a display case.</p>"
           }
         },
         "image-3": {
@@ -270,7 +291,7 @@
             "image": "shopify://shop_images/efemera-keep-generated-product-lifestyle-butterfly-macro-3.jpg",
             "focal_point": "image_presentation",
             "title": "Hand-Painted Enamel",
-            "text": "<p>Applied by hand on sterling silver — the most reflective metal, which makes every color appear more vivid. Each polka dot, each stripe, each marble swirl is individually filled. No two rings are twins, only sisters.</p>"
+            "text": "<p>Applied by hand on sterling silver — the most reflective metal, which makes every color more vivid. Each polka dot, each stripe, each marble swirl is individually filled. The result: no two rings are twins, only sisters.</p>"
           }
         }
       },
@@ -280,9 +301,9 @@
         "image-3"
       ],
       "settings": {
-        "heading": "",
+        "heading": "Materials",
         "heading_tag": "h2",
-        "subheading": "",
+        "subheading": "<p>We go deeper on every material. Not just what — but why.</p>",
         "link": "",
         "link_text": "",
         "columns": "3",
@@ -302,33 +323,61 @@
     "rich_text-3": {
       "type": "rich-text",
       "blocks": {
+        "spacer1": {
+          "type": "spacer",
+          "settings": {
+            "space": 48
+          }
+        },
+        "accent": {
+          "type": "accent",
+          "settings": {
+            "accent": "TWO COLLECTIONS, ONE VISION"
+          }
+        },
+        "spacer2": {
+          "type": "spacer",
+          "settings": {
+            "space": 24
+          }
+        },
         "heading": {
           "type": "heading",
           "settings": {
-            "title": "Two Collections",
+            "title": "Together, they represent every version of you.",
             "heading_tag": "h2",
-            "heading_font_class": "fs-heading-2-base"
+            "heading_font_class": "fs-heading-1-base"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Echoes</strong> — Organic 14k gold, freshwater pearls, moonstone, aquamarine, tourmaline. For quiet moments and grand occasions.</p><p><strong>Draped in Time</strong> — Hand-painted enamel on sterling silver. Polka dots, marble swirls, vivid color. For every version of you.</p>",
+            "text": "<p><strong>Echoes</strong> — Pearls and precious stones set in flowing organic 14k gold. Freshwater pearls, African tourmaline, moonstone, and aquamarine — nature's own treasures, held in forms inspired by tide pools, coral, and winter branches. Timeless elegance for quiet moments and grand occasions.</p><p><strong>Draped in Time</strong> — Bold hand-painted enamel on sterling silver. Chunky organic shapes draped like fabric, alive with polka dots, marble swirls, and vivid color. Each ring is a small act of self-expression — playful, confident, and impossible to ignore.</p>",
             "text_font_class": "fs-body-100"
+          }
+        },
+        "spacer3": {
+          "type": "spacer",
+          "settings": {
+            "space": 48
           }
         }
       },
       "block_order": [
+        "spacer1",
+        "accent",
+        "spacer2",
         "heading",
-        "text"
+        "text",
+        "spacer3"
       ],
       "settings": {
         "alignment": "left_left",
         "enable_animation": true,
         "divider_style": "none",
         "section_padding": "section--vertical-padding-top-bottom",
-        "content_width": "custom",
-        "custom_content_width": 700
+        "content_width": "full",
+        "custom_content_width": 800
       }
     },
     "collapsible_row_list": {
@@ -340,7 +389,7 @@
             "expand_by_default": false,
             "icon": "leaf",
             "title": "Moonstone",
-            "text": "<p>The floating blue glow comes from layers 0.5 microns thick, formed when ancient magma cooled millions of years ago. We cut every moonstone as a cabochon — the smooth dome focuses scattered light into a single luminous band. It's the most organic gemstone: a stone that shifts and breathes.</p>"
+            "text": "<p>That floating blue glow — adularescence — comes from microscopic layers formed when ancient magma cooled millions of years ago. Two intermixed feldspar species separated at the molecular level, creating lamellae that scatter light through Rayleigh scattering — the same physics that makes the sky blue.</p><p>We cut every moonstone as a cabochon. The smooth dome focuses scattered light into a single luminous band. A faceted moonstone would destroy the glow. It's the antithesis of a diamond: soft, mysterious, unpredictable. A stone that shifts and breathes.</p>"
           }
         },
         "item-2": {
@@ -349,7 +398,7 @@
             "expand_by_default": false,
             "icon": "t-shirt",
             "title": "Aquamarine",
-            "text": "<p>Latin for \"water of the sea.\" Iron traces in beryl crystal create the blue-green. We cut ours as cabochons — where faceted aquamarine looks like ice, a cabochon looks like the sea. A deep, still pool of color that integrates with flowing gold forms rather than fighting them.</p>"
+            "text": "<p>The name literally means \"water of the sea.\" Iron traces in beryl crystal create the blue-green that Roman fishermen once carried as a talisman for safe voyages. The natural blue-green is increasingly valued by designers who appreciate its connection to actual ocean color, which is never pure blue.</p><p>We cut our aquamarine as cabochons — unconventional, but deliberate. Where a faceted aquamarine looks like ice, a cabochon looks like the sea: a deep, still pool of color, glowing rather than glinting. The smooth dome integrates seamlessly with flowing gold forms.</p>"
           }
         },
         "item-3": {
@@ -358,7 +407,7 @@
             "expand_by_default": false,
             "icon": "package-open",
             "title": "African Tourmaline",
-            "text": "<p>From artisanal mines in Mozambique and Tanzania, where miners work family-owned claims. The crystal structure can incorporate nearly every element on the periodic table — more colors than any other gemstone. We choose African sources for the extraordinary saturation and the traceable supply chain.</p>"
+            "text": "<p>Tourmaline occurs in more colors than any other gemstone — its crystal structure can incorporate nearly every element on the periodic table. Our tourmalines come from artisanal mines in Mozambique and Tanzania, where miners work family-owned claims with hand tools, not industrial operations.</p><p>Mozambican copper-bearing tourmalines glow with an almost internal neon light. Tanzanian chrome tourmalines produce an electric green colored by the same elements as emerald. We choose African sources for the extraordinary color saturation and the traceable, transparent supply chain.</p>"
           }
         }
       },
@@ -386,33 +435,61 @@
     "rich_text-4": {
       "type": "rich-text",
       "blocks": {
+        "spacer1": {
+          "type": "spacer",
+          "settings": {
+            "space": 48
+          }
+        },
+        "accent": {
+          "type": "accent",
+          "settings": {
+            "accent": "THE PROMISE"
+          }
+        },
+        "spacer2": {
+          "type": "spacer",
+          "settings": {
+            "space": 24
+          }
+        },
         "heading": {
           "type": "heading",
           "settings": {
-            "title": "The Promise",
+            "title": "Jewelry that lives alongside your stories.",
             "heading_tag": "h2",
-            "heading_font_class": "fs-heading-2-base"
+            "heading_font_class": "fs-heading-1-base"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>We create jewelry that lives alongside your stories. Whether it's the earrings you wore the day you said yes, or the ring that makes you smile every time you glance at your hand — Efemera is something you carry forward through every chapter.</p>",
+            "text": "<p>Whether it's the earrings you wore the day you said yes, the ring that makes you smile every time you glance at your hand, or the necklace you never take off — Efemera is designed to be a cherished part of your story, something you carry forward through every chapter of your life.</p><p>Made with natural materials, each piece may have small variations in color and texture, giving it its own character. We see this not as imperfection, but as proof that something real was made by real hands.</p>",
             "text_font_class": "fs-body-100"
+          }
+        },
+        "spacer3": {
+          "type": "spacer",
+          "settings": {
+            "space": 24
           }
         }
       },
       "block_order": [
+        "spacer1",
+        "accent",
+        "spacer2",
         "heading",
-        "text"
+        "text",
+        "spacer3"
       ],
       "settings": {
         "alignment": "left_left",
         "enable_animation": true,
         "divider_style": "none",
         "section_padding": "section--vertical-padding-top-bottom",
-        "content_width": "custom",
-        "custom_content_width": 700
+        "content_width": "full",
+        "custom_content_width": 800
       }
     },
     "rich_text-5": {
@@ -445,6 +522,7 @@
         "spacer",
         "text"
       ],
+      "disabled": true,
       "settings": {
         "alignment": "center_center",
         "enable_animation": true,
@@ -480,7 +558,7 @@
       ],
       "settings": {
         "image_aspect": "custom",
-        "desktop_height": 80,
+        "desktop_height": 60,
         "mobile_height": 80,
         "image": "shopify://shop_images/efemera-keep-generated-homepage-10-mobile-hero.jpg",
         "focal_point": "image_presentation",
@@ -493,7 +571,7 @@
         "button_text_color": "#000000",
         "color_overlay": "#000000",
         "color_overlay_gradient": "",
-        "overlay_opacity": 30,
+        "overlay_opacity": 25,
         "enable_animation": true,
         "section_padding": "section--vertical-padding-top-only"
       }
