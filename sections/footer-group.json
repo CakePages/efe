@@ -126,7 +126,8 @@
             "image_max_width": 150,
             "image_placement": "above_text",
             "show_social_icons": false,
-            "enable_follow_on_shop": false
+            "enable_follow_on_shop": false,
+            "image": "shopify://shop_images/Efemera_Logo_White.png"
           }
         },
         "footer-1": {
