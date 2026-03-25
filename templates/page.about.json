@@ -29,7 +29,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "title": "Jewelry for every version of you",
+            "title": "Designed as a small sculpture",
             "heading_tag": "h1",
             "heading_font_class": "fs-heading-display-2"
           }
@@ -37,13 +37,13 @@
         "spacer": {
           "type": "spacer",
           "settings": {
-            "space": 12
+            "space": 8
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Each piece is designed as a small sculpture — organic, intentional, and alive with meaning.</p>",
+            "text": "<p>Organic, intentional, alive with meaning.</p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -68,7 +68,7 @@
         "button_text_color": "#000000",
         "color_overlay": "#000000",
         "color_overlay_gradient": "",
-        "overlay_opacity": 0,
+        "overlay_opacity": 30,
         "enable_animation": true,
         "section_padding": "section--vertical-padding-none"
       }
@@ -91,7 +91,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "title": "Efemera was created to capture the quiet, fleeting moments that shape our lives. A laugh, a glance that lingers, a familiar scent — moments that pass in an instant yet leave lasting impressions on the heart.",
+            "title": "Efemera was created to capture the quiet, fleeting moments that shape our lives.",
             "heading_tag": "h2",
             "heading_font_class": "fs-heading-1-base"
           }
@@ -105,7 +105,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>The name comes from <em>ephemeral</em> — a reminder that the most meaningful things in life are often the most transient. We believe the adornments you wear become quiet witnesses to those memories, letting the joy of past moments sparkle again whenever you see them.</p><p>Every curve and edge serves a deliberate purpose. We favor asymmetry, subtle tension, and forms that feel alive rather than static. Nothing is accidental, yet nothing feels forced.</p>",
+            "text": "<p>The name comes from <em>ephemeral</em>. A laugh, a glance that lingers, a touch — moments that pass in an instant yet leave lasting impressions. The adornments you wear become quiet witnesses to those memories.</p>",
             "text_font_class": "fs-body-100"
           }
         },
@@ -160,7 +160,7 @@
           "type": "subheading",
           "disabled": true,
           "settings": {
-            "subheading": "Every piece begins as hand-carved wax and ends with hours of hand-finishing at the bench.",
+            "subheading": "Lost-wax casting. Hand-carved wax. Bench-finished by hand.",
             "subheading_tag": "h3",
             "subheading_font_class": "fs-heading-5-base"
           }
@@ -168,7 +168,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Nothing sits in inventory. Each piece is made to order using lost-wax casting — the same technique goldsmiths have used since 3000 BCE. Molten 14k gold at 1,030°C flows into a plaster mold, capturing every organic detail the designer carved by hand.</p><p>After casting, each piece is filed, sanded through progressively finer grits, and polished by hand. Stones are set individually, bezels pushed by feel. The slightly uneven texture, the organically imperfect bezel — these are the maker's signature, embedded in every piece.</p><p>This means a 3–4 week production time. But it also means your piece carries the intention of being made just for this moment in your life.</p>",
+            "text": "<p>Every piece is made to order — nothing sits in inventory. Each begins as hand-carved wax, cast in molten 14k gold, then filed, sanded, and polished by hand. Stones are set individually, bezels pushed by feel. The 3–4 week lead time means your piece was made for this moment in your life.</p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -208,7 +208,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "title": "Materials That Matter",
+            "title": "Materials",
             "heading_tag": "h2",
             "heading_font_class": "fs-heading-2-base"
           }
@@ -222,7 +222,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>We go two levels deep on every material we use. Not just what it is — but why it matters, where it comes from, and what makes it irreplaceable.</p>",
+            "text": "<p>We go deeper on every material we use. Not just what — but why.</p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -251,7 +251,7 @@
             "image": "shopify://shop_images/efemera-keep-generated-v5-symphonia-neck-intimate.jpg",
             "focal_point": "image_presentation",
             "title": "14k Yellow Gold",
-            "text": "<p>Not 18k, not 24k — 14k is a deliberate choice. At 58.3% pure gold alloyed with copper and silver, it's harder than 18k, which means delicate organic tendrils and botanical textures survive daily wear without blurring. The alloy also flows better when molten — filling the finest crevices of sculptural molds that higher karats can't reach. The result: richer detail, more ambitious forms, and a warm buttery tone that looks like the metal grew rather than was manufactured.</p>"
+            "text": "<p>58.3% pure gold alloyed with copper and silver. Harder than 18k, so organic textures survive daily wear. The alloy flows better when molten — filling the finest sculptural details that softer gold can't reach.</p>"
           }
         },
         "image-2": {
@@ -260,7 +260,7 @@
             "image": "shopify://shop_images/efemera-keep-generated-product-lifestyle-gaia-macro-1.jpg",
             "focal_point": "image_presentation",
             "title": "Freshwater Pearls",
-            "text": "<p>Unlike saltwater pearls (which are mostly a shell bead coated in nacre), freshwater pearls are solid nacre — all the way through. Thousands of microscopic aragonite layers, each 0.3 microns thick, self-organize over 2–7 years inside a living mussel. The spacing between layers happens to match the wavelength of visible light, creating luster through the same physics that makes the sky blue. No two pearls reflect light identically. This isn't marketing — it's physics. We choose baroque freshwater pearls because their irregular shapes suggest their own settings, their own compositions. They're pearls that look like they belong in nature.</p>"
+            "text": "<p>Solid nacre all the way through — not a coated bead. Thousands of microscopic layers create luster through the same physics that makes the sky blue. We choose baroque shapes because they belong in nature, not a display case.</p>"
           }
         },
         "image-3": {
@@ -269,7 +269,7 @@
             "image": "shopify://shop_images/efemera-keep-generated-product-lifestyle-butterfly-macro-3.jpg",
             "focal_point": "image_presentation",
             "title": "Hand-Painted Enamel",
-            "text": "<p>Each Draped in Time ring is hand-enameled on sterling silver — the metal with the highest reflectivity of any element, which is why colors appear so vivid against it. Using fine brushes, the jeweler fills each polka dot, each stripe, each marble swirl individually. The viscosity, the air bubbles, the surface tension — all vary with each application. This is why no two rings are twins, only sisters. The enamel is cured, leveled, and polished to a high gloss. What looks like simple color is actually hours of layered handwork on a 3,000-year-old technique.</p>"
+            "text": "<p>Applied by hand on sterling silver — the most reflective metal, which makes every color appear more vivid. Each polka dot, each stripe, each marble swirl is individually filled. No two rings are twins, only sisters.</p>"
           }
         }
       },
@@ -304,7 +304,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "title": "Sterling Silver — The Canvas",
+            "title": "Two Collections",
             "heading_tag": "h2",
             "heading_font_class": "fs-heading-2-base"
           }
@@ -312,7 +312,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Sterling silver (92.5% pure silver, 7.5% copper) isn't just cheaper gold — it's chosen for what it does that gold cannot. Silver has the highest reflectivity of any metal. When enamel is applied over silver, colors appear more vivid and luminous than over any other surface. The silver acts as a mirror behind the glass, amplifying color depth. For the bold, chromatic energy of Draped in Time, no other metal would work.</p>",
+            "text": "<p><strong>Echoes</strong> — Organic 14k gold, freshwater pearls, moonstone, aquamarine, tourmaline. For quiet moments and grand occasions.</p><p><strong>Draped in Time</strong> — Hand-painted enamel on sterling silver. Polka dots, marble swirls, vivid color. For every version of you.</p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -339,7 +339,7 @@
             "expand_by_default": false,
             "icon": "leaf",
             "title": "Moonstone",
-            "text": "<p>That floating blue glow — adularescence — comes from layers 0.5 microns thick formed when ancient magma cooled millions of years ago. Two intermixed feldspar species separated at the molecular level, creating lamellae that scatter light through Rayleigh scattering. We cut every moonstone as a cabochon — the smooth dome focuses scattered light into a single luminous band. A faceted moonstone would destroy the glow. It's the most organic gemstone behavior available: a stone that shifts and breathes, the antithesis of a diamond's controlled brilliance.</p>"
+            "text": "<p>The floating blue glow comes from layers 0.5 microns thick, formed when ancient magma cooled millions of years ago. We cut every moonstone as a cabochon — the smooth dome focuses scattered light into a single luminous band. It's the most organic gemstone: a stone that shifts and breathes.</p>"
           }
         },
         "item-2": {
@@ -348,7 +348,7 @@
             "expand_by_default": false,
             "icon": "t-shirt",
             "title": "Aquamarine",
-            "text": "<p>The name literally means \"water of the sea.\" Iron traces in beryl crystal create the blue-green that Roman fishermen once carried as a talisman for safe voyages. We cut our aquamarine as cabochons — unconventional, but deliberate. Where a faceted aquamarine looks like ice, a cabochon aquamarine looks like the sea: a deep, still pool of color, glowing rather than glinting. The smooth dome integrates seamlessly with flowing gold forms, becoming a luminous presence within the piece rather than fighting against it.</p>"
+            "text": "<p>Latin for \"water of the sea.\" Iron traces in beryl crystal create the blue-green. We cut ours as cabochons — where faceted aquamarine looks like ice, a cabochon looks like the sea. A deep, still pool of color that integrates with flowing gold forms rather than fighting them.</p>"
           }
         },
         "item-3": {
@@ -357,7 +357,7 @@
             "expand_by_default": false,
             "icon": "package-open",
             "title": "African Tourmaline",
-            "text": "<p>Tourmaline occurs in more colors than any other gemstone — its crystal structure can incorporate nearly every element on the periodic table. Our tourmalines come from African artisanal mines in Mozambique and Tanzania, where miners work family-owned claims with hand tools. Mozambican copper-bearing tourmalines glow with an almost internal neon light. Tanzanian chrome tourmalines produce an electric green colored by the same elements as emerald. We choose African sources for both the extraordinary color saturation and the traceable, transparent supply chain — knowing where the stone came from and who pulled it from the earth.</p>"
+            "text": "<p>From artisanal mines in Mozambique and Tanzania, where miners work family-owned claims. The crystal structure can incorporate nearly every element on the periodic table — more colors than any other gemstone. We choose African sources for the extraordinary saturation and the traceable supply chain.</p>"
           }
         }
       },
@@ -396,7 +396,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>We create jewelry that lives alongside your stories. Whether it's the earrings you wore the day you said yes, the ring that makes you smile every time you glance at your hand, or the necklace you never take off — Efemera is designed to be a cherished part of your story, something you carry forward through every chapter of your life.</p><p>Made with natural materials, each piece may have small variations in color and texture, giving it its own character. We see this not as imperfection, but as proof that something real was made by real hands.</p>",
+            "text": "<p>We create jewelry that lives alongside your stories. Whether it's the earrings you wore the day you said yes, or the ring that makes you smile every time you glance at your hand — Efemera is something you carry forward through every chapter.</p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -420,7 +420,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "title": "Two Collections, One Vision",
+            "title": "Made with natural materials",
             "heading_tag": "h2",
             "heading_font_class": "fs-heading-2-base"
           }
@@ -434,7 +434,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Echoes</strong> — Pearls and precious stones set in flowing organic 14k gold. Freshwater pearls, African tourmaline, moonstone, and aquamarine — nature's own treasures, held in forms inspired by tide pools, coral, and winter branches. For quiet moments and grand occasions.</p><p><strong>Draped in Time</strong> — Bold hand-painted enamel on sterling silver. Chunky organic shapes draped like fabric, alive with polka dots, marble swirls, and vivid color. Each ring is a small act of self-expression — playful, confident, and impossible to ignore.</p><p>Together, they represent every version of you.</p>",
+            "text": "<p>Each piece may have small variations in color and texture. We see this not as imperfection, but as proof that something real was made by real hands.</p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -492,7 +492,7 @@
         "button_text_color": "#000000",
         "color_overlay": "#000000",
         "color_overlay_gradient": "",
-        "overlay_opacity": 20,
+        "overlay_opacity": 30,
         "enable_animation": true,
         "section_padding": "section--vertical-padding-top-only"
       }
