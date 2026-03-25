@@ -22,7 +22,7 @@
             "heading_tag": "h2",
             "text": "",
             "link": "/collections/echoes",
-            "link_text": "Explore Collection",
+            "link_text": "",
             "button_style": "btn--primary"
           }
         },
@@ -36,7 +36,7 @@
             "heading_tag": "h2",
             "text": "",
             "link": "/collections/draped-in-time",
-            "link_text": "Explore Collection",
+            "link_text": "",
             "button_style": "btn--primary"
           }
         }
@@ -490,8 +490,8 @@
             "subheading_font_class": "fs-heading-6-base",
             "text": "<p>Pearls and gold for life's quietest moments.</p>",
             "text_font_class": "fs-body-100",
-            "link": "/collections/echoes",
-            "link_text": "Shop Echoes",
+            "link": "",
+            "link_text": "",
             "button_style": "btn--primary",
             "background_color": "",
             "text_color": "#ffffff",
@@ -525,8 +525,8 @@
             "subheading_font_class": "fs-heading-6-base",
             "text": "<p>Color that doesn't apologize.</p>",
             "text_font_class": "fs-body-100",
-            "link": "/collections/draped-in-time",
-            "link_text": "Shop Draped in Time",
+            "link": "",
+            "link_text": "",
             "button_style": "btn--primary",
             "background_color": "",
             "text_color": "#ffffff",
