@@ -286,7 +286,17 @@
         "product_list": {
           "type": "product_list",
           "settings": {
-            "product_list": [],
+            "product_list": [
+              "aurivelle",
+              "deux",
+              "dew-petal",
+              "duo",
+              "ebb-and-flow",
+              "entwine",
+              "floating-light",
+              "forest-crest",
+              "gaia"
+            ],
             "collection_name": "Collection"
           }
         }
@@ -600,7 +610,7 @@
           "type": "quote",
           "settings": {
             "quote": "<p>\"I've never seen jewelry that feels so personal. The Floating Light earrings are my everyday luxury.\"</p>",
-            "title": "",
+            "title": "Lauren H.",
             "quote_tag": "h4",
             "font_size": "large"
           }
@@ -609,7 +619,7 @@
           "type": "quote",
           "settings": {
             "quote": "<p>\"The Butterfly ring gets compliments everywhere I go. It's bold but somehow goes with everything.\"</p>",
-            "title": "",
+            "title": "Jessica M.",
             "quote_tag": "h4",
             "font_size": "large"
           }
@@ -618,7 +628,7 @@
           "type": "quote",
           "settings": {
             "quote": "<p>\"I wore the Gaia earrings on my wedding day. They were my something special.\"</p>",
-            "title": "",
+            "title": "Amanda R.",
             "quote_tag": "h4",
             "font_size": "large"
           }
@@ -632,7 +642,7 @@
       "settings": {
         "autoplay_enabled": true,
         "autoplay_delay": 7,
-        "pagination_style": "logos",
+        "pagination_style": "dots",
         "font_choice": "heading",
         "enable_animation": true,
         "divider_style": "none",
