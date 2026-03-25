@@ -105,7 +105,7 @@
       ],
       "settings": {
         "layout": "logo-left_nav-center",
-        "enable_sticky_header": true,
+        "enable_sticky_header": false,
         "cart_icon": "bag",
         "divider_width": "0px",
         "enable_locale_selector": false,
