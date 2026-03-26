@@ -837,13 +837,13 @@
         "accent_AzNWJQ": {
           "type": "accent",
           "settings": {
-            "accent": "Accent"
+            "accent": "EXPLORE COLLECTIONS"
           }
         },
         "heading_QQ3E4w": {
           "type": "heading",
           "settings": {
-            "title": "Image hero",
+            "title": "Made for You",
             "heading_tag": "h2",
             "heading_font_class": "fs-heading-display-2"
           }
@@ -851,7 +851,7 @@
         "text_yNAnDA": {
           "type": "text",
           "settings": {
-            "text": "<p>Use these sections to promote a particular feature with editorial photography.</p>",
+            "text": "<p>Every piece begins the day you order it. 3–4 weeks of intention, delivered to your door.</p>",
             "text_font_class": "fs-body-100"
           }
         },
