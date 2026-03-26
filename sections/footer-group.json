@@ -123,29 +123,29 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "footer-0": {
+        "brand": {
           "type": "text",
           "settings": {
-            "desktop_width": 30,
+            "desktop_width": 25,
             "desktop_padding": 0,
             "collapse_on_mobile": false,
             "title": "",
             "show_title_on_desktop": false,
             "text": "<p>Jewelry for every version of you.<br>Handmade in New York City.</p>",
+            "image": "shopify://shop_images/Efemera_Logo_White.png",
             "image_max_width": 120,
             "image_placement": "above_text",
             "show_social_icons": true,
-            "enable_follow_on_shop": false,
-            "image": "shopify://shop_images/Efemera_Logo_White.png"
+            "enable_follow_on_shop": false
           }
         },
-        "footer-1": {
+        "spacer-1": {
           "type": "spacer",
           "settings": {
-            "desktop_width": 10
+            "desktop_width": 5
           }
         },
-        "footer-2": {
+        "shop-links": {
           "type": "links",
           "settings": {
             "desktop_width": 15,
@@ -153,54 +153,52 @@
             "collapse_on_mobile": true,
             "title": "Shop",
             "show_title_on_desktop": true,
-            "link_list": "footer"
+            "link_list": "footer-shop"
           }
         },
-        "footer-3": {
+        "company-links": {
           "type": "links",
           "settings": {
             "desktop_width": 15,
-            "desktop_padding": 2,
+            "desktop_padding": 0,
             "collapse_on_mobile": true,
             "title": "Company",
             "show_title_on_desktop": true,
-            "link_list": "footer"
+            "link_list": "footer-company"
           }
         },
-        "footer-4": {
+        "legal-links": {
+          "type": "links",
+          "settings": {
+            "desktop_width": 15,
+            "desktop_padding": 0,
+            "collapse_on_mobile": true,
+            "title": "Legal",
+            "show_title_on_desktop": true,
+            "link_list": "footer-legal"
+          }
+        },
+        "newsletter": {
           "type": "newsletter",
           "settings": {
-            "desktop_width": 30,
+            "desktop_width": 100,
             "desktop_padding": 0,
             "collapse_on_mobile": false,
             "title": "",
             "show_title_on_desktop": true,
-            "text": "<h3>Stay in the world of Efemera</h3>",
+            "text": "<h3>Stay in the world of Efemera</h3><p>New pieces, stories, and exclusive access.</p>",
             "show_social_icons": false,
             "enable_follow_on_shop": false
-          }
-        },
-        "3ee4ef35-e03a-4eb7-88f8-89d62abde1b2": {
-          "type": "spacer",
-          "settings": {
-            "desktop_width": 100
-          }
-        },
-        "263e7a92-4801-4587-8776-772350a4af66": {
-          "type": "spacer",
-          "settings": {
-            "desktop_width": 100
           }
         }
       },
       "block_order": [
-        "footer-0",
-        "footer-1",
-        "footer-2",
-        "footer-3",
-        "footer-4",
-        "3ee4ef35-e03a-4eb7-88f8-89d62abde1b2",
-        "263e7a92-4801-4587-8776-772350a4af66"
+        "brand",
+        "spacer-1",
+        "shop-links",
+        "company-links",
+        "legal-links",
+        "newsletter"
       ],
       "settings": {
         "enable_locale_selector": true,
