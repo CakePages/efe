@@ -1,1 +1,424 @@
-{"sections": {"main": {"type": "main-product--default", "blocks": {"header": {"type": "product_header", "settings": {"show_divider": true, "show_vendor": true, "show_sku": true, "show_discount": true, "discount_format": "percent_off", "show_product_rating": false, "show_sale_badge": true, "show_custom_badges": true}}, "description": {"type": "description", "settings": {"title": "", "title_tag": "h3", "text_font_class": "fs-body-100", "column_placement": "right", "display_as_collapsible_row": false, "expand_by_default": false, "icon": "none"}}, "variant_picker": {"type": "variant_picker", "settings": {"variant_popup_option": "Size", "variant_popup_icon": "none", "variant_popup_text": "Size guide", "variant_popup_page": "", "swatch_size": "medium", "chip_layout": "natural"}}, "buy_buttons": {"type": "buy_buttons", "settings": {"show_dynamic_checkout": true, "enable_sticky_atc_bar_desktop": true, "enable_sticky_atc_bar_mobile": true, "divider_width": "border--thin"}}, "callouts": {"type": "product_callouts", "settings": {"title": "", "title_tag": "h3", "add_box": true, "add_dividers": true, "icon_1": "cotton", "text_1": "<p><strong>Sterling Silver</strong> \u00b7 Hand-Painted Enamel</p>", "icon_2": "measuring-tape", "text_2": "<p>Sizes 3\u20139 \u00b7 <strong>Order \u00bd size up</strong></p>", "icon_3": "stiletto", "text_3": "<p>Handcrafted in NYC</p>", "icon_4": "moving-truck", "text_4": "<p>Free insured shipping \u00b7 1-year warranty</p>", "icon_5": "bill", "text_5": "<p><strong>Made to order</strong> \u00b7 3\u20134 week production</p>", "icon_6": "none", "text_6": "", "display_as_collapsible_row": false, "expand_by_default": false, "icon": "none"}}, "share": {"type": "share", "settings": {}}}, "block_order": ["header", "description", "variant_picker", "buy_buttons", "callouts", "share"], "settings": {"enable_sticky_product_details": true, "show_breadcrumbs": false, "show_navigation_buttons": false, "auto_collapse_rows": false, "show_featured_media_first": false, "gallery_style": "list", "gallery_style_mobile": "carousel", "gallery_size": "large", "gallery_overflow": "3", "enable_video_looping": true, "enable_product_lightbox": true, "image_aspect_ratio": "portrait", "enable_multiple_variant_media": false, "enable_mobile_carousel_looping": true, "show_mobile_carousel_images_full_width": true, "hide_mobile_carousel_dots": false, "enable_gift_card_recipient": true, "enable_animation": true}}, "product_tabs": {"type": "product-tabs", "blocks": {"tab_description": {"type": "one_column", "settings": {"tab_heading": "Description", "heading_column_1": "What Makes It Special", "heading_font_class_column_1": "fs-heading-4-base", "heading_tag_column_1": "h3", "text_column_1": "<p>Muted greenish-blue meets soft pink in a color combination pulled straight from a wildflower meadow. Wild Flower is one of the most nuanced colorways in Draped in Time \u2014 the colors are muted enough to feel sophisticated, bright enough to feel alive.</p><p>The premium colorway uses additional enamel layers to build depth in these more complex, muted tones. Where brighter colors can be achieved in fewer firings, these subtle shades require more passes to get the warmth and depth right.</p>", "page_for_content_column_1": "", "custom_liquid_column_1": "", "text_font_class_column_1": "fs-body-100", "content_width": "custom", "text_max_width": 800, "image_width_column_1": 100, "image_position_column_1": "above_text"}}, "tab_details": {"type": "one_column", "settings": {"tab_heading": "Details & Materials", "heading_column_1": "Specifications", "heading_font_class_column_1": "fs-heading-4-base", "heading_tag_column_1": "h3", "text_column_1": "<ul><li><strong>Material:</strong> Sterling silver</li><li><strong>Technique:</strong> Hand-painted glossy enamel, premium colorway (additional firings)</li><li><strong>Pattern:</strong> Muted greenish-blue with pink dots</li><li><strong>Sizing:</strong> Order \u00bd size up (enamel adds slight thickness)</li><li><strong>Sizes:</strong> 3 through 9 (half sizes available)</li><li><strong>Collection:</strong> Draped in Time</li></ul>", "page_for_content_column_1": "", "custom_liquid_column_1": "", "text_font_class_column_1": "fs-body-100", "content_width": "custom", "text_max_width": 800, "image_width_column_1": 100, "image_position_column_1": "above_text"}}, "tab_care": {"type": "one_column", "settings": {"tab_heading": "Care", "heading_column_1": "Jewelry Care", "heading_font_class_column_1": "fs-heading-4-base", "heading_tag_column_1": "h3", "text_column_1": "<p><strong>Enamel Rings:</strong> Remove before washing hands, swimming, or exercise. Enamel is durable but can chip on hard impacts \u2014 avoid knocking against hard surfaces. Store in the provided pouch, separate from other jewelry. Clean with a soft, dry cloth. Do not use jewelry cleaners or ultrasonic cleaners on enamel.</p>", "page_for_content_column_1": "", "custom_liquid_column_1": "", "text_font_class_column_1": "fs-body-100", "content_width": "custom", "text_max_width": 800, "image_width_column_1": 100, "image_position_column_1": "above_text"}}, "tab_shipping": {"type": "two_column_tab", "settings": {"tab_heading": "Shipping & Returns", "content_vertical_alignment": "top", "column_spacing": 48, "heading_column_1": "Made to Order", "heading_font_class_column_1": "fs-heading-4-base", "heading_tag_column_1": "h3", "text_column_1": "<p>Every ring is handcrafted to order in NYC. The enamel process alone requires multiple firings over several days. Please allow 3\u20134 weeks for production. Free insured shipping on all orders. Signature required on delivery. You'll receive email updates during production and tracking when your piece ships.</p>", "page_for_content_column_1": "", "custom_liquid_column_1": "", "text_font_class_column_1": "fs-body-100", "image_width_column_1": 100, "image_position_column_1": "above_text", "heading_column_2": "Returns & Warranty", "heading_font_class_column_2": "fs-heading-4-base", "heading_tag_column_2": "h3", "text_column_2": "<p>All sales are final \u2014 each piece is made specifically for you. 1-year warranty covers manufacturing defects. If your piece arrives damaged, contact us within 14 days with photos for repair or replacement.</p>", "page_for_content_column_2": "", "custom_liquid_column_2": "", "text_font_class_column_2": "fs-body-100", "image_width_column_2": 100, "image_position_column_2": "above_text"}}}, "block_order": ["tab_description", "tab_details", "tab_care", "tab_shipping"], "settings": {"tab_alignment": "left", "tab_spacing": 40, "font_choice": "ff-heading", "tab_font_size": "fs-body-150", "auto_collapse_rows": false, "background_color": "", "text_color": "#000000", "enable_animation": true, "section_padding": "section--vertical-padding-bottom-only"}}, "multi-column": {"type": "multi-column", "blocks": {}, "block_order": [], "disabled": true, "settings": {"title": "", "heading_tag": "h2", "heading_font_class": "fs-heading-3-base", "subheading": "", "heading_alignment": "left", "content_vertical_alignment": "center", "content_background_padding": "large", "columns": "3", "column_spacing": 4, "row_spacing": 28, "column_alignment": "center", "enable_slider_mobile": false, "columns_mobile": "1", "column_spacing_mobile": 4, "row_spacing_mobile": 4, "column_alignment_mobile": "center", "background_behind_columns": false, "background_color": "#f5f3f0", "text_color": "#3d352f", "button_background_color": "#000000", "button_text_color": "#ffffff", "enable_animation": true, "divider_style": "none", "section_padding": "section--vertical-padding-top-bottom"}}, "image-hero": {"type": "image-hero", "blocks": {"accent": {"type": "accent", "settings": {"accent": "DRAPED IN TIME"}}, "heading": {"type": "heading", "settings": {"title": "Wild Flower", "heading_tag": "h2", "heading_font_class": "fs-heading-display-2"}}}, "block_order": ["accent", "heading"], "settings": {"image_aspect": "custom", "desktop_height": 60, "mobile_height": 65, "focal_point": "center", "mobile_focal_point": "center", "media_link": "", "text_position": "flex-end_flex-end", "text_position_mobile": "center_center", "text_color": "#f5f5f5", "button_background_color": "#ffffff", "button_text_color": "#000000", "color_overlay": "#000000", "color_overlay_gradient": "", "overlay_opacity": 25, "enable_animation": true, "section_padding": "section--vertical-padding-none", "image": "shopify://shop_images/efemera-lifestyle-v7-15-wild-flower-bouquet-hands.jpg"}}, "testimonials": {"type": "testimonials", "blocks": {"review-1": {"type": "testimonial", "settings": {"product": "wild-flower", "image_position": "right", "aspect_ratio": "square", "focal_point": "image_presentation", "show_rating": true, "rating": 5, "quote": "The colors are so much more complex in person. The greenish-blue shifts depending on the light. Absolutely love it.", "author": "\u2013 Robin C. \u00b7 Verified Buyer"}}, "review-2": {"type": "testimonial", "settings": {"product": "wild-flower", "image_position": "right", "aspect_ratio": "square", "focal_point": "image_presentation", "show_rating": true, "rating": 5, "quote": "This is the Draped in Time ring for grown-ups. Muted but still colorful. Sophisticated but still fun.", "author": "\u2013 Jennifer W. \u00b7 Verified Buyer"}}, "review-3": {"type": "testimonial", "settings": {"product": "wild-flower", "image_position": "right", "aspect_ratio": "square", "focal_point": "image_presentation", "show_rating": true, "rating": 5, "quote": "The pink dots against the sage-green base is such a beautiful combination. It reminds me of a garden at dusk.", "author": "\u2013 Adriana V. \u00b7 Verified Buyer"}}, "review-4": {"type": "testimonial", "settings": {"product": "wild-flower", "image_position": "right", "aspect_ratio": "square", "focal_point": "image_presentation", "show_rating": true, "rating": 4, "quote": "Lovely ring. Colors are more muted than the photos which I appreciate. Very organic, natural feeling palette.", "author": "\u2013 Kathleen M. \u00b7 Verified Buyer"}}}, "block_order": ["review-1", "review-2", "review-3", "review-4"], "settings": {"image_size": "small", "quote_font": "body", "background_color": "#fcfcf9", "text_color": "#3d352f", "enable_animation": true, "divider_style": "none", "section_padding": "section--vertical-padding-top-bottom"}}, "recommendations": {"type": "recommended-products", "settings": {"title": "You May Also Like", "heading_tag": "h2", "subheading": "", "maximum_products": 4, "columns": "4", "mobile_columns": "2", "enable_animation": true, "divider_style": "none", "section_padding": "section--vertical-padding-top-bottom"}}, "scrolling_content": {"type": "scrolling-content", "blocks": {"text_1": {"type": "text", "settings": {"text": "Handcrafted in New York City", "link": ""}}, "text_2": {"type": "text", "settings": {"text": "Wearable art, painted by hand", "link": ""}}}, "block_order": ["text_1", "text_2"], "settings": {"font_choice": "ff-heading", "text_font_class": "fs-heading-2-base", "duration": 10, "direction": "normal", "gap": 50, "padding_top": 0, "padding_bottom": 5, "borders": "none", "background_color": "rgba(0,0,0,0)", "text_color": "#222425", "border_color": "#aaaaaa", "enable_animation": true, "divider_style": "none", "section_padding": "section--vertical-padding-top-bottom"}}}, "order": ["main", "product_tabs", "multi-column", "image-hero", "testimonials", "recommendations", "scrolling_content"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product--default",
+      "blocks": {
+        "header": {
+          "type": "product_header",
+          "settings": {
+            "show_divider": true,
+            "show_vendor": true,
+            "show_sku": true,
+            "show_discount": true,
+            "discount_format": "percent_off",
+            "show_product_rating": false,
+            "show_sale_badge": true,
+            "show_custom_badges": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "title": "",
+            "title_tag": "h3",
+            "text_font_class": "fs-body-100",
+            "column_placement": "right",
+            "display_as_collapsible_row": false,
+            "expand_by_default": false,
+            "icon": "none"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_popup_option": "Size",
+            "variant_popup_icon": "none",
+            "variant_popup_text": "Size guide",
+            "variant_popup_page": "",
+            "swatch_size": "medium",
+            "chip_layout": "natural"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "enable_sticky_atc_bar_desktop": true,
+            "enable_sticky_atc_bar_mobile": true,
+            "divider_width": "border--thin"
+          }
+        },
+        "callouts": {
+          "type": "product_callouts",
+          "settings": {
+            "title": "",
+            "title_tag": "h3",
+            "add_box": true,
+            "add_dividers": true,
+            "icon_1": "cotton",
+            "text_1": "<p><strong>Sterling Silver</strong> · Hand-Painted Enamel</p>",
+            "icon_2": "measuring-tape",
+            "text_2": "<p>Sizes 3–9 · <strong>Order ½ size up</strong></p>",
+            "icon_3": "stiletto",
+            "text_3": "<p>Handcrafted in NYC</p>",
+            "icon_4": "moving-truck",
+            "text_4": "<p>Free insured shipping · 1-year warranty</p>",
+            "icon_5": "bill",
+            "text_5": "<p><strong>Made to order</strong> · 3–4 week production</p>",
+            "icon_6": "none",
+            "text_6": "",
+            "display_as_collapsible_row": false,
+            "expand_by_default": false,
+            "icon": "none"
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "header",
+        "description",
+        "variant_picker",
+        "buy_buttons",
+        "callouts",
+        "share"
+      ],
+      "settings": {
+        "enable_sticky_product_details": true,
+        "show_breadcrumbs": false,
+        "show_navigation_buttons": false,
+        "auto_collapse_rows": false,
+        "show_featured_media_first": false,
+        "gallery_style": "list",
+        "gallery_style_mobile": "carousel",
+        "gallery_size": "large",
+        "gallery_overflow": "3",
+        "enable_video_looping": true,
+        "enable_product_lightbox": true,
+        "image_aspect_ratio": "portrait",
+        "enable_multiple_variant_media": false,
+        "enable_mobile_carousel_looping": true,
+        "show_mobile_carousel_images_full_width": true,
+        "hide_mobile_carousel_dots": false,
+        "enable_gift_card_recipient": true,
+        "enable_animation": true
+      }
+    },
+    "product_tabs": {
+      "type": "product-tabs",
+      "blocks": {
+        "tab_description": {
+          "type": "one_column",
+          "settings": {
+            "tab_heading": "Description",
+            "heading_column_1": "What Makes It Special",
+            "heading_font_class_column_1": "fs-heading-4-base",
+            "heading_tag_column_1": "h3",
+            "text_column_1": "<p>Muted greenish-blue meets soft pink in a color combination pulled straight from a wildflower meadow. Wild Flower is one of the most nuanced colorways in Draped in Time — the colors are muted enough to feel sophisticated, bright enough to feel alive.</p><p>The premium colorway uses additional enamel layers to build depth in these more complex, muted tones. Where brighter colors can be achieved in fewer firings, these subtle shades require more passes to get the warmth and depth right.</p>",
+            "page_for_content_column_1": "",
+            "custom_liquid_column_1": "",
+            "text_font_class_column_1": "fs-body-100",
+            "content_width": "custom",
+            "text_max_width": 800,
+            "image_width_column_1": 100,
+            "image_position_column_1": "above_text"
+          }
+        },
+        "tab_details": {
+          "type": "one_column",
+          "settings": {
+            "tab_heading": "Details & Materials",
+            "heading_column_1": "Specifications",
+            "heading_font_class_column_1": "fs-heading-4-base",
+            "heading_tag_column_1": "h3",
+            "text_column_1": "<ul><li><strong>Material:</strong> Sterling silver</li><li><strong>Technique:</strong> Hand-painted glossy enamel, premium colorway (additional firings)</li><li><strong>Pattern:</strong> Muted greenish-blue with pink dots</li><li><strong>Sizing:</strong> Order ½ size up (enamel adds slight thickness)</li><li><strong>Sizes:</strong> 3 through 9 (half sizes available)</li><li><strong>Collection:</strong> Draped in Time</li></ul>",
+            "page_for_content_column_1": "",
+            "custom_liquid_column_1": "",
+            "text_font_class_column_1": "fs-body-100",
+            "content_width": "custom",
+            "text_max_width": 800,
+            "image_width_column_1": 100,
+            "image_position_column_1": "above_text"
+          }
+        },
+        "tab_care": {
+          "type": "one_column",
+          "settings": {
+            "tab_heading": "Care",
+            "heading_column_1": "Jewelry Care",
+            "heading_font_class_column_1": "fs-heading-4-base",
+            "heading_tag_column_1": "h3",
+            "text_column_1": "<p><strong>Enamel Rings:</strong> Remove before washing hands, swimming, or exercise. Enamel is durable but can chip on hard impacts — avoid knocking against hard surfaces. Store in the provided pouch, separate from other jewelry. Clean with a soft, dry cloth. Do not use jewelry cleaners or ultrasonic cleaners on enamel.</p>",
+            "page_for_content_column_1": "",
+            "custom_liquid_column_1": "",
+            "text_font_class_column_1": "fs-body-100",
+            "content_width": "custom",
+            "text_max_width": 800,
+            "image_width_column_1": 100,
+            "image_position_column_1": "above_text"
+          }
+        },
+        "tab_shipping": {
+          "type": "two_column_tab",
+          "settings": {
+            "tab_heading": "Shipping & Returns",
+            "content_vertical_alignment": "top",
+            "column_spacing": 48,
+            "heading_column_1": "Made to Order",
+            "heading_font_class_column_1": "fs-heading-4-base",
+            "heading_tag_column_1": "h3",
+            "text_column_1": "<p>Every ring is handcrafted to order in NYC. The enamel process alone requires multiple firings over several days. Please allow 3–4 weeks for production. Free insured shipping on all orders. Signature required on delivery. You'll receive email updates during production and tracking when your piece ships.</p>",
+            "page_for_content_column_1": "",
+            "custom_liquid_column_1": "",
+            "text_font_class_column_1": "fs-body-100",
+            "image_width_column_1": 100,
+            "image_position_column_1": "above_text",
+            "heading_column_2": "Returns & Warranty",
+            "heading_font_class_column_2": "fs-heading-4-base",
+            "heading_tag_column_2": "h3",
+            "text_column_2": "<p>All sales are final — each piece is made specifically for you. 1-year warranty covers manufacturing defects. If your piece arrives damaged, contact us within 14 days with photos for repair or replacement.</p>",
+            "page_for_content_column_2": "",
+            "custom_liquid_column_2": "",
+            "text_font_class_column_2": "fs-body-100",
+            "image_width_column_2": 100,
+            "image_position_column_2": "above_text"
+          }
+        }
+      },
+      "block_order": [
+        "tab_description",
+        "tab_details",
+        "tab_care",
+        "tab_shipping"
+      ],
+      "settings": {
+        "tab_alignment": "left",
+        "tab_spacing": 40,
+        "font_choice": "ff-heading",
+        "tab_font_size": "fs-body-150",
+        "auto_collapse_rows": false,
+        "background_color": "",
+        "text_color": "#000000",
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-bottom-only"
+      }
+    },
+    "multi-column": {
+      "type": "multi-column",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "heading_tag": "h2",
+        "heading_font_class": "fs-heading-3-base",
+        "subheading": "",
+        "heading_alignment": "left",
+        "content_vertical_alignment": "center",
+        "content_background_padding": "large",
+        "columns": "3",
+        "column_spacing": 4,
+        "row_spacing": 28,
+        "column_alignment": "center",
+        "enable_slider_mobile": false,
+        "columns_mobile": "1",
+        "column_spacing_mobile": 4,
+        "row_spacing_mobile": 4,
+        "column_alignment_mobile": "center",
+        "background_behind_columns": false,
+        "background_color": "#f5f3f0",
+        "text_color": "#3d352f",
+        "button_background_color": "#000000",
+        "button_text_color": "#ffffff",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "image-hero": {
+      "type": "image-hero",
+      "blocks": {
+        "accent": {
+          "type": "accent",
+          "settings": {
+            "accent": "DRAPED IN TIME"
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "title": "Wild Flower",
+            "heading_tag": "h2",
+            "heading_font_class": "fs-heading-display-2"
+          }
+        }
+      },
+      "block_order": [
+        "accent",
+        "heading"
+      ],
+      "settings": {
+        "image_aspect": "custom",
+        "desktop_height": 60,
+        "mobile_height": 65,
+        "image": "shopify://shop_images/efemera-lifestyle-v7-15-wild-flower-bouquet-hands.jpg",
+        "focal_point": "center",
+        "mobile_focal_point": "center",
+        "media_link": "",
+        "text_position": "flex-end_flex-end",
+        "text_position_mobile": "center_center",
+        "text_color": "#f5f5f5",
+        "button_background_color": "#ffffff",
+        "button_text_color": "#000000",
+        "color_overlay": "#000000",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 25,
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-none"
+      }
+    },
+    "testimonials": {
+      "type": "testimonials",
+      "blocks": {
+        "review-1": {
+          "type": "testimonial",
+          "settings": {
+            "product": "wild-flower",
+            "image_position": "right",
+            "aspect_ratio": "square",
+            "focal_point": "image_presentation",
+            "show_rating": true,
+            "rating": 5,
+            "quote": "The colors are so much more complex in person. The greenish-blue shifts depending on the light. Absolutely love it.",
+            "author": "– Robin C. · Verified Buyer"
+          }
+        },
+        "review-2": {
+          "type": "testimonial",
+          "settings": {
+            "product": "wild-flower",
+            "image_position": "right",
+            "aspect_ratio": "square",
+            "focal_point": "image_presentation",
+            "show_rating": true,
+            "rating": 5,
+            "quote": "This is the Draped in Time ring for grown-ups. Muted but still colorful. Sophisticated but still fun.",
+            "author": "– Jennifer W. · Verified Buyer"
+          }
+        },
+        "review-3": {
+          "type": "testimonial",
+          "settings": {
+            "product": "wild-flower",
+            "image_position": "right",
+            "aspect_ratio": "square",
+            "focal_point": "image_presentation",
+            "show_rating": true,
+            "rating": 5,
+            "quote": "The pink dots against the sage-green base is such a beautiful combination. It reminds me of a garden at dusk.",
+            "author": "– Adriana V. · Verified Buyer"
+          }
+        },
+        "review-4": {
+          "type": "testimonial",
+          "settings": {
+            "product": "wild-flower",
+            "image_position": "right",
+            "aspect_ratio": "square",
+            "focal_point": "image_presentation",
+            "show_rating": true,
+            "rating": 4,
+            "quote": "Lovely ring. Colors are more muted than the photos which I appreciate. Very organic, natural feeling palette.",
+            "author": "– Kathleen M. · Verified Buyer"
+          }
+        }
+      },
+      "block_order": [
+        "review-1",
+        "review-2",
+        "review-3",
+        "review-4"
+      ],
+      "settings": {
+        "image_size": "small",
+        "quote_font": "body",
+        "background_color": "#fcfcf9",
+        "text_color": "#3d352f",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "recommendations": {
+      "type": "recommended-products",
+      "settings": {
+        "title": "You May Also Like",
+        "heading_tag": "h2",
+        "subheading": "",
+        "maximum_products": 4,
+        "columns": "4",
+        "mobile_columns": "2",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "scrolling_content": {
+      "type": "scrolling-content",
+      "blocks": {
+        "text_1": {
+          "type": "text",
+          "settings": {
+            "text": "Handcrafted in New York City",
+            "link": ""
+          }
+        },
+        "text_2": {
+          "type": "text",
+          "settings": {
+            "text": "Wearable art, painted by hand",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_1",
+        "text_2"
+      ],
+      "settings": {
+        "font_choice": "ff-heading",
+        "text_font_class": "fs-heading-2-base",
+        "duration": 10,
+        "direction": "normal",
+        "gap": 50,
+        "padding_top": 0,
+        "padding_bottom": 5,
+        "borders": "none",
+        "background_color": "rgba(0,0,0,0)",
+        "text_color": "#222425",
+        "border_color": "#aaaaaa",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "product_tabs",
+    "multi-column",
+    "image-hero",
+    "testimonials",
+    "recommendations",
+    "scrolling_content"
+  ]
+}
