@@ -46,14 +46,17 @@
           "settings": {
             "title_tag": "h3",
             "icon_1": "gem",
-            "text_1": "<p>Handcrafted in NYC</p>",
-            "icon_2": "moving-truck",
-            "text_2": "<p>Free insured shipping</p>",
-            "icon_3": "padlock",
-            "text_3": "<p>1-year warranty</p>",
-            "icon_4": "none",
-            "icon_5": "none",
-            "icon_6": "none"
+            "text_1": "<p><strong>14k Yellow Gold</strong></p>",
+            "icon_2": "cotton",
+            "text_2": "<p><strong>Freshwater Pearls & Green Prehnite</strong></p>",
+            "icon_3": "measuring-tape",
+            "text_3": "<p><strong>~3–4cm from earlobe</strong></p>",
+            "icon_4": "stiletto",
+            "text_4": "<p>Handcrafted in NYC</p>",
+            "icon_5": "moving-truck",
+            "text_5": "<p>Free insured shipping</p>",
+            "icon_6": "padlock",
+            "text_6": "<p>1-year warranty</p>"
           }
         },
         "share": {
