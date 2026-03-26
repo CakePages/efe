@@ -15,7 +15,14 @@
         "header": {
           "type": "product_header",
           "settings": {
-            "discount_format": "percent_off"
+            "show_divider": true,
+            "show_vendor": true,
+            "show_sku": true,
+            "show_discount": true,
+            "discount_format": "percent_off",
+            "show_product_rating": false,
+            "show_sale_badge": true,
+            "show_custom_badges": true
           }
         },
         "description": {
@@ -24,13 +31,19 @@
             "title": "",
             "title_tag": "h3",
             "text_font_class": "fs-body-100",
-            "column_placement": "right"
+            "column_placement": "right",
+            "display_as_collapsible_row": false,
+            "expand_by_default": false,
+            "icon": "none"
           }
         },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
             "variant_popup_option": "Size",
+            "variant_popup_icon": "none",
+            "variant_popup_text": "Size guide",
+            "variant_popup_page": "",
             "swatch_size": "medium",
             "chip_layout": "natural"
           }
@@ -38,15 +51,19 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "divider_width": "border--thin",
+            "show_dynamic_checkout": true,
             "enable_sticky_atc_bar_desktop": true,
-            "enable_sticky_atc_bar_mobile": true
+            "enable_sticky_atc_bar_mobile": true,
+            "divider_width": "border--thin"
           }
         },
         "callouts": {
           "type": "product_callouts",
           "settings": {
+            "title": "",
             "title_tag": "h3",
+            "add_box": true,
+            "add_dividers": true,
             "icon_1": "leaf",
             "text_1": "<p><strong>14k Gold</strong> · Freshwater Pearls · Green Prehnite</p>",
             "icon_2": "measuring-tape",
@@ -57,7 +74,11 @@
             "text_4": "<p>Free insured shipping · 1-year warranty</p>",
             "icon_5": "bill",
             "text_5": "<p><strong>Made to order</strong> · 3–4 week production</p>",
-            "icon_6": "none"
+            "icon_6": "none",
+            "text_6": "",
+            "display_as_collapsible_row": false,
+            "expand_by_default": false,
+            "icon": "none"
           }
         },
         "share": {
@@ -77,6 +98,7 @@
         "enable_sticky_product_details": true,
         "show_breadcrumbs": false,
         "show_navigation_buttons": false,
+        "auto_collapse_rows": false,
         "show_featured_media_first": false,
         "gallery_style": "list",
         "gallery_style_mobile": "carousel",
@@ -104,6 +126,8 @@
             "heading_font_class_column_1": "fs-heading-4-base",
             "heading_tag_column_1": "h3",
             "text_column_1": "<p>The prehnite is cut as a smooth cabochon — no facets, just a glowing drop of green that deepens at the center and lightens at the edges. Each stone is hand-selected for color and clarity. The gold frame is cast using lost-wax technique and hand-finished in our NYC studio.</p><p>These earrings end just below the jawline — visible but delicate. The prehnite drop sways gently with movement. Comfortable for extended wear, light enough you may forget you have them on.</p>",
+            "page_for_content_column_1": "",
+            "custom_liquid_column_1": "",
             "text_font_class_column_1": "fs-body-100",
             "content_width": "custom",
             "text_max_width": 800,
@@ -119,6 +143,8 @@
             "heading_font_class_column_1": "fs-heading-4-base",
             "heading_tag_column_1": "h3",
             "text_column_1": "<ul><li><strong>Material:</strong> 14k yellow gold</li><li><strong>Stones:</strong> Freshwater pearls (3–5mm), green prehnite cabochon drop (~10mm)</li><li><strong>Total Length:</strong> Approximately 3–4cm from earlobe</li><li><strong>Weight:</strong> Light enough for all-day wear</li><li><strong>Closure:</strong> Post with butterfly back</li><li><strong>Collection:</strong> Echoes</li></ul>",
+            "page_for_content_column_1": "",
+            "custom_liquid_column_1": "",
             "text_font_class_column_1": "fs-body-100",
             "content_width": "custom",
             "text_max_width": 800,
@@ -134,6 +160,8 @@
             "heading_font_class_column_1": "fs-heading-4-base",
             "heading_tag_column_1": "h3",
             "text_column_1": "<p><strong>Gold & Pearl Pieces:</strong> Put jewelry on last, take it off first. Wipe with a soft cloth after wearing. Store in the provided pouch. Avoid perfume, chlorine, and harsh chemicals. Pearls benefit from being worn — natural skin oils maintain their luster.</p>",
+            "page_for_content_column_1": "",
+            "custom_liquid_column_1": "",
             "text_font_class_column_1": "fs-body-100",
             "content_width": "custom",
             "text_max_width": 800,
@@ -151,6 +179,8 @@
             "heading_font_class_column_1": "fs-heading-4-base",
             "heading_tag_column_1": "h3",
             "text_column_1": "<p>Every piece is handcrafted to order in NYC. Please allow 3–4 weeks for production. Free insured shipping on all orders. Signature required on delivery. You'll receive email updates during production and tracking when your piece ships.</p>",
+            "page_for_content_column_1": "",
+            "custom_liquid_column_1": "",
             "text_font_class_column_1": "fs-body-100",
             "image_width_column_1": 100,
             "image_position_column_1": "above_text",
@@ -158,6 +188,8 @@
             "heading_font_class_column_2": "fs-heading-4-base",
             "heading_tag_column_2": "h3",
             "text_column_2": "<p>All sales are final — each piece is made specifically for you. 1-year warranty covers manufacturing defects. If your piece arrives damaged, contact us within 14 days with photos for repair or replacement.</p>",
+            "page_for_content_column_2": "",
+            "custom_liquid_column_2": "",
             "text_font_class_column_2": "fs-body-100",
             "image_width_column_2": 100,
             "image_position_column_2": "above_text"
@@ -175,6 +207,7 @@
         "tab_spacing": 40,
         "font_choice": "ff-heading",
         "tab_font_size": "fs-body-150",
+        "auto_collapse_rows": false,
         "background_color": "",
         "text_color": "#000000",
         "enable_animation": true,
@@ -263,67 +296,6 @@
         "section_padding": "section--vertical-padding-top-bottom"
       }
     },
-    "testimonials": {
-      "type": "testimonials",
-      "blocks": {
-        "review-1": {
-          "type": "testimonial",
-          "settings": {
-            "rating": 5,
-            "quote": "The Floating Light earrings are exactly what I was looking for — delicate but noticeable. The green prehnite catches light beautifully. Worth every week of waiting.",
-            "author": "– Sarah M. · Verified Buyer"
-          }
-        },
-        "review-2": {
-          "type": "testimonial",
-          "settings": {
-            "rating": 5,
-            "quote": "I can't stop touching them. The pearls are so luminous and the gold has this incredible warmth. My husband said they look like they cost twice the price.",
-            "author": "– Priya K. · Verified Buyer"
-          }
-        },
-        "review-3": {
-          "type": "testimonial",
-          "settings": {
-            "rating": 5,
-            "quote": "I wore the Gaia earrings on my wedding day — my something special. Three months later I still wear them almost every day. They go with everything.",
-            "author": "– Mia L. · Verified Buyer"
-          }
-        },
-        "review-4": {
-          "type": "testimonial",
-          "settings": {
-            "rating": 5,
-            "quote": "The craftsmanship is unreal. You can feel the quality the moment you hold them. And the packaging is gorgeous — felt like a real gift to myself.",
-            "author": "– Jessica T. · Verified Buyer"
-          }
-        },
-        "review-5": {
-          "type": "testimonial",
-          "settings": {
-            "rating": 4,
-            "quote": "Beautiful pieces. The production wait is real (took about 4 weeks) but they communicate well throughout. The result was absolutely worth it.",
-            "author": "– Anika R. · Verified Buyer"
-          }
-        }
-      },
-      "block_order": [
-        "review-1",
-        "review-2",
-        "review-3",
-        "review-4",
-        "review-5"
-      ],
-      "settings": {
-        "image_size": "hide",
-        "quote_font": "body",
-        "background_color": "#fcfcf9",
-        "text_color": "#3d352f",
-        "enable_animation": true,
-        "divider_style": "none",
-        "section_padding": "section--vertical-padding-top-bottom"
-      }
-    },
     "image-hero": {
       "type": "image-hero",
       "blocks": {
@@ -366,10 +338,83 @@
         "section_padding": "section--vertical-padding-none"
       }
     },
+    "testimonials": {
+      "type": "testimonials",
+      "blocks": {
+        "review-2": {
+          "type": "testimonial",
+          "settings": {
+            "product": "floating-light",
+            "image_position": "right",
+            "aspect_ratio": "square",
+            "focal_point": "image_presentation",
+            "show_rating": false,
+            "rating": 5,
+            "quote": "I can't stop touching them. The pearls are so luminous and the gold has this incredible warmth. My husband said they look like they cost twice the price.",
+            "author": "– Priya K. · Verified Buyer"
+          }
+        },
+        "review-3": {
+          "type": "testimonial",
+          "settings": {
+            "product": "floating-light",
+            "image_position": "right",
+            "aspect_ratio": "square",
+            "focal_point": "image_presentation",
+            "show_rating": true,
+            "rating": 5,
+            "quote": "I wore the Gaia earrings on my wedding day — my something special. Three months later I still wear them almost every day. They go with everything.",
+            "author": "– Mia L. · Verified Buyer"
+          }
+        },
+        "review-4": {
+          "type": "testimonial",
+          "settings": {
+            "product": "floating-light",
+            "image_position": "right",
+            "aspect_ratio": "square",
+            "focal_point": "image_presentation",
+            "show_rating": true,
+            "rating": 5,
+            "quote": "The craftsmanship is unreal. You can feel the quality the moment you hold them. And the packaging is gorgeous — felt like a real gift to myself.",
+            "author": "– Jessica T. · Verified Buyer"
+          }
+        },
+        "review-5": {
+          "type": "testimonial",
+          "settings": {
+            "product": "floating-light",
+            "image_position": "right",
+            "aspect_ratio": "square",
+            "focal_point": "image_presentation",
+            "show_rating": true,
+            "rating": 4,
+            "quote": "Beautiful pieces. The production wait is real (took about 4 weeks) but they communicate well throughout. The result was absolutely worth it.",
+            "author": "– Anika R. · Verified Buyer"
+          }
+        }
+      },
+      "block_order": [
+        "review-2",
+        "review-3",
+        "review-4",
+        "review-5"
+      ],
+      "settings": {
+        "image_size": "small",
+        "quote_font": "body",
+        "background_color": "#fcfcf9",
+        "text_color": "#3d352f",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
     "recommendations": {
       "type": "recommended-products",
       "settings": {
         "title": "You May Also Like",
+        "heading_tag": "h2",
         "subheading": "",
         "maximum_products": 4,
         "columns": "4",
