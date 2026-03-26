@@ -434,35 +434,17 @@
             "link": ""
           }
         },
-        "image_mXA98G": {
-          "type": "image",
-          "settings": {
-            "image_size": 100,
-            "image_size_mobile": 200,
-            "link": ""
-          }
-        },
         "text_izGRTC": {
           "type": "text",
           "settings": {
             "text": "Jewelry for every version of you",
             "link": ""
           }
-        },
-        "image_kN83bd": {
-          "type": "image",
-          "settings": {
-            "image_size": 100,
-            "image_size_mobile": 200,
-            "link": ""
-          }
         }
       },
       "block_order": [
         "text_4fw7ri",
-        "image_mXA98G",
-        "text_izGRTC",
-        "image_kN83bd"
+        "text_izGRTC"
       ],
       "settings": {
         "font_choice": "ff-heading",
