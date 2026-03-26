@@ -345,20 +345,11 @@
             "heading_tag": "h2",
             "heading_font_class": "fs-heading-display-2"
           }
-        },
-        "button": {
-          "type": "button",
-          "settings": {
-            "link": "/collections/echoes",
-            "link_text": "Explore Echoes",
-            "button_style": "btn--secondary"
-          }
         }
       },
       "block_order": [
         "accent",
-        "heading",
-        "button"
+        "heading"
       ],
       "settings": {
         "image_aspect": "custom",
@@ -455,8 +446,8 @@
     "main",
     "product_tabs",
     "multi-column",
-    "testimonials",
     "image-hero",
+    "testimonials",
     "recommendations",
     "scrolling_content"
   ]
