@@ -293,12 +293,48 @@
             "title": "Hand-Painted Enamel",
             "text": "<p>Applied by hand on sterling silver — the most reflective metal, which makes every color more vivid. Each polka dot, each stripe, each marble swirl is individually filled. The result: no two rings are twins, only sisters.</p>"
           }
+        },
+        "image-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/efemera-about-materials-enamel.jpg",
+            "title": "Sterling Silver",
+            "text": "<p>92.5% pure silver — the most reflective metal on earth. When enamel is applied over silver, colors appear more vivid than over any other surface. The silver acts as a mirror behind the glass, amplifying every hue.</p>"
+          }
+        },
+        "image-5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/efemera-about-stone-moonstone.jpg",
+            "title": "Moonstone",
+            "text": "<p>That floating blue glow comes from microscopic layers formed when ancient magma cooled. Two feldspar species separated at the molecular level, scattering light the same way the sky turns blue. We cut every moonstone as a cabochon to focus the glow.</p>"
+          }
+        },
+        "image-6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/efemera-about-stone-aquamarine.jpg",
+            "title": "Aquamarine",
+            "text": "<p>Latin for \"water of the sea.\" Iron traces in beryl crystal create the blue-green. We cut ours as cabochons — where faceted aquamarine looks like ice, a cabochon looks like the sea. A deep, still pool of color that glows from within.</p>"
+          }
+        },
+        "image-7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/efemera-about-stone-tourmaline.jpg",
+            "title": "African Tourmaline",
+            "text": "<p>From artisanal mines in Mozambique and Tanzania. Its crystal structure incorporates nearly every element — more colors than any other gemstone. We choose African sources for the extraordinary saturation and the traceable supply chain.</p>"
+          }
         }
       },
       "block_order": [
         "image-1",
         "image-2",
-        "image-3"
+        "image-3",
+        "image-4",
+        "image-5",
+        "image-6",
+        "image-7"
       ],
       "settings": {
         "heading": "Materials",
@@ -383,45 +419,79 @@
     "collapsible_row_list": {
       "type": "collapsible-row-list",
       "blocks": {
-        "item-1": {
+        "faq-1": {
           "type": "item",
           "settings": {
-            "expand_by_default": false,
-            "icon": "leaf",
-            "title": "Moonstone",
-            "text": "<p>That floating blue glow — adularescence — comes from microscopic layers formed when ancient magma cooled millions of years ago. Two intermixed feldspar species separated at the molecular level, creating lamellae that scatter light through Rayleigh scattering — the same physics that makes the sky blue.</p><p>We cut every moonstone as a cabochon. The smooth dome focuses scattered light into a single luminous band. A faceted moonstone would destroy the glow. It's the antithesis of a diamond: soft, mysterious, unpredictable. A stone that shifts and breathes.</p>"
+            "title": "How long does it take to receive my order?",
+            "text": "<p>Every Efemera piece is made to order by hand in New York City. Please allow 3–4 weeks for production. Once shipped, delivery typically takes 3–5 business days within the US, and 7–14 business days internationally.</p>"
           }
         },
-        "item-2": {
+        "faq-2": {
           "type": "item",
           "settings": {
-            "expand_by_default": false,
-            "icon": "t-shirt",
-            "title": "Aquamarine",
-            "text": "<p>The name literally means \"water of the sea.\" Iron traces in beryl crystal create the blue-green that Roman fishermen once carried as a talisman for safe voyages. The natural blue-green is increasingly valued by designers who appreciate its connection to actual ocean color, which is never pure blue.</p><p>We cut our aquamarine as cabochons — unconventional, but deliberate. Where a faceted aquamarine looks like ice, a cabochon looks like the sea: a deep, still pool of color, glowing rather than glinting. The smooth dome integrates seamlessly with flowing gold forms.</p>"
+            "title": "What materials do you use?",
+            "text": "<p><strong>Echoes Collection:</strong> 14k yellow gold, freshwater pearls, African tourmaline, moonstone, and aquamarine. All stones are ethically sourced.</p><p><strong>Draped in Time Collection:</strong> Sterling silver (925) with hand-painted enamel. Each ring features unique patterns applied by hand — no two are identical.</p>"
           }
         },
-        "item-3": {
+        "faq-3": {
           "type": "item",
           "settings": {
-            "expand_by_default": false,
-            "icon": "package-open",
-            "title": "African Tourmaline",
-            "text": "<p>Tourmaline occurs in more colors than any other gemstone — its crystal structure can incorporate nearly every element on the periodic table. Our tourmalines come from artisanal mines in Mozambique and Tanzania, where miners work family-owned claims with hand tools, not industrial operations.</p><p>Mozambican copper-bearing tourmalines glow with an almost internal neon light. Tanzanian chrome tourmalines produce an electric green colored by the same elements as emerald. We choose African sources for the extraordinary color saturation and the traceable, transparent supply chain.</p>"
+            "title": "Do you offer returns or exchanges?",
+            "text": "<p>Because each piece is made to order specifically for you, we cannot accept returns. However, if your piece arrives damaged or defective, please contact us within 7 days and we will make it right. Exchanges are available for sizing issues — just email us.</p>"
+          }
+        },
+        "faq-4": {
+          "type": "item",
+          "settings": {
+            "title": "How should I care for my jewelry?",
+            "text": "<p><strong>Gold & Pearl pieces:</strong> Store in the provided pouch when not wearing. Avoid contact with perfume, hairspray, and harsh chemicals. Wipe gently with a soft cloth after wearing. Pearls are organic — they love being worn and benefit from the natural oils in your skin.</p><p><strong>Enamel rings:</strong> Enamel is durable but can chip on hard impact. Remove before heavy manual work. Clean with a soft damp cloth. Avoid ultrasonic cleaners.</p>"
+          }
+        },
+        "faq-5": {
+          "type": "item",
+          "settings": {
+            "title": "Do you ship internationally?",
+            "text": "<p>Yes. We ship worldwide. International orders may be subject to customs duties and taxes, which are the responsibility of the buyer. All orders are shipped fully insured.</p>"
+          }
+        },
+        "faq-6": {
+          "type": "item",
+          "settings": {
+            "title": "Can I request a custom piece?",
+            "text": "<p>We love custom commissions. If you have a vision for a special piece — a unique stone, a personalized design, or a modification to an existing piece — please reach out through our contact page and we'll discuss what's possible.</p>"
+          }
+        },
+        "faq-7": {
+          "type": "item",
+          "settings": {
+            "title": "What sizes are your rings?",
+            "text": "<p>Draped in Time rings are adjustable open-band designs that fit most ring sizes (approximately US 5–9). Echoes rings are available in standard US sizes. If you're unsure of your size, we recommend visiting a local jeweler for a professional measurement.</p>"
+          }
+        },
+        "faq-8": {
+          "type": "item",
+          "settings": {
+            "title": "Are your pearls real?",
+            "text": "<p>Yes. We use genuine freshwater pearls — solid nacre all the way through, not coated beads. Each pearl is unique in shape, size, and luster. Small natural variations are a sign of authenticity, not imperfection.</p>"
           }
         }
       },
       "block_order": [
-        "item-1",
-        "item-2",
-        "item-3"
+        "faq-1",
+        "faq-2",
+        "faq-3",
+        "faq-4",
+        "faq-5",
+        "faq-6",
+        "faq-7",
+        "faq-8"
       ],
       "settings": {
         "title": "",
         "heading_tag": "h2",
         "heading_font_class": "fs-heading-3-base",
         "heading_alignment": "left",
-        "subheading": "<p>Every stone tells a story about where it came from.</p>",
+        "subheading": "",
         "subheading_tag": "h3",
         "subheading_font_class": "fs-heading-5-base",
         "item_heading_font": "heading",
