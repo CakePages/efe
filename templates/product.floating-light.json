@@ -38,7 +38,9 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "divider_width": "border--thin"
+            "divider_width": "border--thin",
+            "enable_sticky_atc_bar_desktop": true,
+            "enable_sticky_atc_bar_mobile": true
           }
         },
         "callouts": {
@@ -268,31 +270,59 @@
           "type": "testimonial",
           "settings": {
             "image_position": "right",
-            "aspect_ratio": "portrait",
             "rating": 5,
-            "quote": "I've never seen jewelry that feels so personal. The pearls have this incredible glow.",
-            "author": "– Sarah M."
+            "quote": "The Floating Light earrings are exactly what I was looking for — delicate but noticeable. The green prehnite catches light beautifully. Worth every week of waiting.",
+            "author": "– Sarah M. · Verified Buyer"
           }
         },
         "review-2": {
           "type": "testimonial",
           "settings": {
             "image_position": "right",
-            "aspect_ratio": "portrait",
             "rating": 5,
-            "quote": "I wore these on my wedding day. Delicate, beautiful, and unlike anything I'd seen.",
-            "author": "– Mia L."
+            "quote": "I can't stop touching them. The pearls are so luminous and the gold has this incredible warmth. My husband said they look like they cost twice the price.",
+            "author": "– Priya K. · Verified Buyer"
+          }
+        },
+        "review-3": {
+          "type": "testimonial",
+          "settings": {
+            "image_position": "right",
+            "rating": 5,
+            "quote": "I wore the Gaia earrings on my wedding day — my something special. Three months later I still wear them almost every day. They go with everything.",
+            "author": "– Mia L. · Verified Buyer"
+          }
+        },
+        "review-4": {
+          "type": "testimonial",
+          "settings": {
+            "image_position": "right",
+            "rating": 5,
+            "quote": "The craftsmanship is unreal. You can feel the quality the moment you hold them. And the packaging is gorgeous — felt like a real gift to myself.",
+            "author": "– Jessica T. · Verified Buyer"
+          }
+        },
+        "review-5": {
+          "type": "testimonial",
+          "settings": {
+            "image_position": "right",
+            "rating": 4,
+            "quote": "Beautiful pieces. The production wait is real (took about 4 weeks) but they communicate well throughout. The result was absolutely worth it.",
+            "author": "– Anika R. · Verified Buyer"
           }
         }
       },
       "block_order": [
         "review-1",
-        "review-2"
+        "review-2",
+        "review-3",
+        "review-4",
+        "review-5"
       ],
       "settings": {
-        "image_size": "large",
-        "quote_font": "heading",
-        "background_color": "#f5f3f0",
+        "image_size": "none",
+        "quote_font": "body",
+        "background_color": "#fcfcf9",
         "text_color": "#3d352f",
         "enable_animation": true,
         "divider_style": "none",
