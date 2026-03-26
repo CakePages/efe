@@ -40,11 +40,7 @@
       %}
     </{{ wrapper_tag }}>
 
-    {%- if block.settings.product != blank -%}
-      <figcaption class="testimonials__item-product-title fs-product-card-title">
-        {{ block.settings.product.title }}
-      </figcaption>
-    {%- endif -%}
+    {%- comment -%} Product title hidden — Efemera design choice {%- endcomment -%}
   </figure>
 {% endcapture %}
 
