@@ -126,15 +126,15 @@
         "footer-0": {
           "type": "text",
           "settings": {
-            "desktop_width": 40,
+            "desktop_width": 30,
             "desktop_padding": 0,
             "collapse_on_mobile": false,
             "title": "",
             "show_title_on_desktop": false,
-            "text": "<p>All product content for the theme demo was kindly provided by <a href=\"https://boskemperstudio.com/\" target=\"_blank\" title=\"https://boskemperstudio.com/\">BOSKEMPER</a>.</p>",
-            "image_max_width": 150,
+            "text": "<p>Jewelry for every version of you.<br>Handmade in New York City.</p>",
+            "image_max_width": 120,
             "image_placement": "above_text",
-            "show_social_icons": false,
+            "show_social_icons": true,
             "enable_follow_on_shop": false,
             "image": "shopify://shop_images/Efemera_Logo_White.png"
           }
@@ -142,16 +142,16 @@
         "footer-1": {
           "type": "spacer",
           "settings": {
-            "desktop_width": 20
+            "desktop_width": 10
           }
         },
         "footer-2": {
           "type": "links",
           "settings": {
-            "desktop_width": 20,
+            "desktop_width": 15,
             "desktop_padding": 0,
             "collapse_on_mobile": true,
-            "title": "Shop Collections",
+            "title": "Shop",
             "show_title_on_desktop": true,
             "link_list": "footer"
           }
@@ -159,10 +159,10 @@
         "footer-3": {
           "type": "links",
           "settings": {
-            "desktop_width": 20,
+            "desktop_width": 15,
             "desktop_padding": 2,
             "collapse_on_mobile": true,
-            "title": "The Company",
+            "title": "Company",
             "show_title_on_desktop": true,
             "link_list": "footer"
           }
@@ -170,12 +170,12 @@
         "footer-4": {
           "type": "newsletter",
           "settings": {
-            "desktop_width": 100,
+            "desktop_width": 30,
             "desktop_padding": 0,
             "collapse_on_mobile": false,
             "title": "",
             "show_title_on_desktop": true,
-            "text": "<h1>Sign up and save on your first order</h1>",
+            "text": "<h3>Stay in the world of Efemera</h3>",
             "show_social_icons": false,
             "enable_follow_on_shop": false
           }
@@ -206,7 +206,7 @@
         "enable_locale_selector": true,
         "enable_country_selector": true,
         "show_payment_icons": true,
-        "additional_copyright_text": ""
+        "additional_copyright_text": "<p>Efemera Jewelry</p>"
       }
     }
   },
