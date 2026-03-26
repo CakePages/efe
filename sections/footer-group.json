@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "type": "footer",
   "name": "t:groups.footer_group.name",
@@ -8,14 +17,14 @@
         "icon_column_KDFRqz": {
           "type": "icon_column",
           "settings": {
-            "icon": "moving-truck",
+            "icon": "cotton",
             "icon_width": 24,
             "icon_width_mobile": 20,
             "accent": "",
-            "heading": "Easy Returns",
+            "heading": "Made to Order",
             "heading_tag": "h3",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>Your exchange ships out as soon as you email us.</p>",
+            "text": "<p>Every piece handcrafted in NYC, specifically for you. 3\u20134 week production.</p>",
             "text_font_class": "fs-body-75",
             "text_max_width": 100,
             "link": "",
@@ -33,7 +42,7 @@
             "heading": "Worldwide Shipping",
             "heading_tag": "h3",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>Receive your order around  3-5 days after shipment</p>",
+            "text": "<p>Fully insured shipping to anywhere in the world. 3\u20135 days US, 7\u201314 international.</p>",
             "text_font_class": "fs-body-75",
             "text_max_width": 100,
             "link": "",
@@ -44,14 +53,14 @@
         "icon_column_EwNdUR": {
           "type": "icon_column",
           "settings": {
-            "icon": "cotton",
+            "icon": "gem",
             "icon_width": 24,
             "icon_width_mobile": 20,
             "accent": "",
-            "heading": "Atelier Grade",
+            "heading": "14k Gold & Natural Stones",
             "heading_tag": "h3",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>Made with love, using high-quality premium materials</p>",
+            "text": "<p>Freshwater pearls, moonstone, aquamarine, tourmaline. Ethically sourced materials.</p>",
             "text_font_class": "fs-body-75",
             "text_max_width": 100,
             "link": "",
@@ -69,7 +78,7 @@
             "heading": "Buy Now, Pay Later",
             "heading_tag": "h3",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>Instalments with 0% interest and no extra charges through Shop Pay</p>",
+            "text": "<p>Split your purchase into instalments with Shop Pay. 0% interest, no extra charges.</p>",
             "text_font_class": "fs-body-75",
             "text_max_width": 100,
             "link": "",
@@ -102,7 +111,7 @@
         "row_spacing_mobile": 20,
         "column_alignment_mobile": "left",
         "background_behind_columns": false,
-        "background_color": "#f0ece8",
+        "background_color": "#f5f3f0",
         "text_color": "#3d352f",
         "button_background_color": "#3d352f",
         "button_text_color": "#fcfcf9",
