@@ -103,3 +103,22 @@ input[type="submit"] {
   letter-spacing: 0.08em;
   font-weight: 400;
 }
+
+/* --- Reviews: hide empty image column, full-width text --- */
+.testimonials-item__media:empty,
+.testimonials-item__media:not(:has(img)) {
+  display: none !important;
+}
+
+.testimonials-item__media--placeholder {
+  display: none !important;
+}
+
+.testimonials-item {
+  grid-template-columns: 1fr !important;
+}
+
+.testimonials-item__content {
+  max-width: 600px;
+  margin: 0 auto;
+}

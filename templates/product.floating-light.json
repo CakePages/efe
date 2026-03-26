@@ -81,7 +81,7 @@
         "gallery_style": "list",
         "gallery_style_mobile": "carousel",
         "gallery_size": "large",
-        "gallery_overflow": "1",
+        "gallery_overflow": "3",
         "enable_video_looping": true,
         "enable_product_lightbox": true,
         "image_aspect_ratio": "portrait",
