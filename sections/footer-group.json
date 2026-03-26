@@ -24,7 +24,7 @@
             "heading": "Made to Order",
             "heading_tag": "h3",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>Every piece handcrafted in NYC, specifically for you. 3\u20134 week production.</p>",
+            "text": "<p>Every piece handcrafted in NYC, specifically for you. 3–4 week production.</p>",
             "text_font_class": "fs-body-75",
             "text_max_width": 100,
             "link": "",
@@ -42,7 +42,7 @@
             "heading": "Worldwide Shipping",
             "heading_tag": "h3",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>Fully insured shipping to anywhere in the world. 3\u20135 days US, 7\u201314 international.</p>",
+            "text": "<p>Fully insured shipping to anywhere in the world. 3–5 days US, 7–14 international.</p>",
             "text_font_class": "fs-body-75",
             "text_max_width": 100,
             "link": "",
@@ -96,8 +96,8 @@
       "settings": {
         "title": "",
         "heading_tag": "h2",
-        "subheading": "",
         "heading_font_class": "fs-heading-3-base",
+        "subheading": "",
         "heading_alignment": "center",
         "content_vertical_alignment": "center",
         "content_background_padding": "medium",
@@ -142,7 +142,7 @@
         "spacer-1": {
           "type": "spacer",
           "settings": {
-            "desktop_width": 5
+            "desktop_width": 30
           }
         },
         "shop-links": {
@@ -186,6 +186,7 @@
             "collapse_on_mobile": false,
             "title": "",
             "show_title_on_desktop": true,
+            "enable_collect_customer_name": false,
             "text": "<h3>Stay in the world of Efemera</h3><p>New pieces, stories, and exclusive access.</p>",
             "show_social_icons": false,
             "enable_follow_on_shop": false
