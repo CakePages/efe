@@ -447,8 +447,8 @@
       ],
       "settings": {
         "image_aspect": "custom",
-        "desktop_height": 90,
-        "mobile_height": 90,
+        "desktop_height": 50,
+        "mobile_height": 60,
         "video": "shopify://files/videos/Efe-Export-.mp4",
         "media_link": "",
         "focal_point": "image_presentation",
