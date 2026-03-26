@@ -15,7 +15,7 @@
         "image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/efemera-lifestyle-v6-11-moonlit-mirror-night.jpg",
+            "image": "shopify://shop_images/hero-close-echoes-04.jpg",
             "focal_point": "top",
             "mobile_focal_point": "image_presentation",
             "title": "Echoes",
@@ -29,7 +29,7 @@
         "image-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/efemera-lifestyle-v7-11-pop-couture-lipstick-macro.jpg",
+            "image": "shopify://shop_images/hero-close-draped-01.jpg",
             "focal_point": "top",
             "mobile_focal_point": "center",
             "title": "Draped in Time",
