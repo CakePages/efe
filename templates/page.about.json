@@ -18,36 +18,24 @@
         "custom_content_width": 700
       }
     },
-    "video_hero": {
-      "type": "video-hero",
+    "image_hero_kBzBEK": {
+      "type": "image-hero",
       "blocks": {
-        "spacer1": {
-          "type": "spacer",
-          "settings": {
-            "space": 12
-          }
-        },
-        "accent": {
+        "accent_9R7UkY": {
           "type": "accent",
           "settings": {
             "accent": "ABOUT EFEMERA"
           }
         },
-        "heading": {
+        "heading_H8fa6J": {
           "type": "heading",
           "settings": {
             "title": "Designed as a small sculpture",
-            "heading_tag": "h1",
+            "heading_tag": "h2",
             "heading_font_class": "fs-heading-display-2"
           }
         },
-        "spacer2": {
-          "type": "spacer",
-          "settings": {
-            "space": 8
-          }
-        },
-        "text": {
+        "text_4dHgJK": {
           "type": "text",
           "settings": {
             "text": "<p>Organic, intentional, alive with meaning.</p>",
@@ -56,27 +44,27 @@
         }
       },
       "block_order": [
-        "spacer1",
-        "accent",
-        "heading",
-        "spacer2",
-        "text"
+        "accent_9R7UkY",
+        "heading_H8fa6J",
+        "text_4dHgJK"
       ],
+      "name": "t:sections.image_hero.presets.name",
       "settings": {
         "image_aspect": "custom",
         "desktop_height": 80,
         "mobile_height": 90,
-        "media_link": "",
+        "image": "shopify://shop_images/efemera-generated-draped-video-horizontal-golden-blossom-piano-1.jpg",
         "focal_point": "image_presentation",
-        "focal_point_mobile": "image_presentation",
+        "mobile_focal_point": "image_presentation",
+        "media_link": "",
         "text_position": "flex-start_flex-end",
         "text_position_mobile": "center_center",
-        "text_color": "#ffffff",
-        "button_background_color": "#ffffff",
+        "text_color": "#FFFFFF",
+        "button_background_color": "#FFFFFF",
         "button_text_color": "#000000",
         "color_overlay": "#000000",
         "color_overlay_gradient": "",
-        "overlay_opacity": 25,
+        "overlay_opacity": 40,
         "enable_animation": true,
         "section_padding": "section--vertical-padding-none"
       }
@@ -162,6 +150,7 @@
           "type": "subheading",
           "settings": {
             "subheading": "<p>SoHo cobblestones. Cast-iron galleries. The energy of a city that never stops making.</p>",
+            "subheading_tag": "h3",
             "subheading_font_class": "fs-heading-5-base"
           }
         },
@@ -192,11 +181,11 @@
         "image_position": "right",
         "image_mobile_position": "above-content",
         "image_padding": "none",
-        "image": "shopify://shop_images/efemera-about-nyc-culture.jpg",
+        "image": "shopify://shop_images/efemera-generated-homepage-nyc-culture-3.jpg",
         "aspect_ratio": "square",
         "focal_point": "image_presentation",
         "content_alignment": "left",
-        "background_color": "#f7f7e8",
+        "background_color": "#e4d7d0",
         "text_color": "#000000",
         "button_background_color": "#000000",
         "button_text_color": "#ffffff",
@@ -297,7 +286,8 @@
         "image-4": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/efemera-about-materials-enamel.jpg",
+            "image": "shopify://shop_images/Screen_Shot_2026-03-25_at_10.51.27_PM.png",
+            "focal_point": "image_presentation",
             "title": "Sterling Silver",
             "text": "<p>92.5% pure silver — the most reflective metal on earth. When enamel is applied over silver, colors appear more vivid than over any other surface. The silver acts as a mirror behind the glass, amplifying every hue.</p>"
           }
@@ -306,6 +296,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/efemera-about-stone-moonstone.jpg",
+            "focal_point": "image_presentation",
             "title": "Moonstone",
             "text": "<p>That floating blue glow comes from microscopic layers formed when ancient magma cooled. Two feldspar species separated at the molecular level, scattering light the same way the sky turns blue. We cut every moonstone as a cabochon to focus the glow.</p>"
           }
@@ -314,6 +305,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/efemera-about-stone-aquamarine.jpg",
+            "focal_point": "image_presentation",
             "title": "Aquamarine",
             "text": "<p>Latin for \"water of the sea.\" Iron traces in beryl crystal create the blue-green. We cut ours as cabochons — where faceted aquamarine looks like ice, a cabochon looks like the sea. A deep, still pool of color that glows from within.</p>"
           }
@@ -322,6 +314,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/efemera-about-stone-tourmaline.jpg",
+            "focal_point": "image_presentation",
             "title": "African Tourmaline",
             "text": "<p>From artisanal mines in Mozambique and Tanzania. Its crystal structure incorporates nearly every element — more colors than any other gemstone. We choose African sources for the extraordinary saturation and the traceable supply chain.</p>"
           }
@@ -342,6 +335,7 @@
         "subheading": "<p>We go deeper on every material. Not just what — but why.</p>",
         "link": "",
         "link_text": "",
+        "button_style": "btn--callout",
         "columns": "3",
         "mobile_columns": "1",
         "loop_carousel": true,
@@ -422,6 +416,8 @@
         "faq-1": {
           "type": "item",
           "settings": {
+            "expand_by_default": false,
+            "icon": "none",
             "title": "How long does it take to receive my order?",
             "text": "<p>Every Efemera piece is made to order by hand in New York City. Please allow 3–4 weeks for production. Once shipped, delivery typically takes 3–5 business days within the US, and 7–14 business days internationally.</p>"
           }
@@ -429,6 +425,8 @@
         "faq-2": {
           "type": "item",
           "settings": {
+            "expand_by_default": false,
+            "icon": "none",
             "title": "What materials do you use?",
             "text": "<p><strong>Echoes Collection:</strong> 14k yellow gold, freshwater pearls, African tourmaline, moonstone, and aquamarine. All stones are ethically sourced.</p><p><strong>Draped in Time Collection:</strong> Sterling silver (925) with hand-painted enamel. Each ring features unique patterns applied by hand — no two are identical.</p>"
           }
@@ -436,6 +434,8 @@
         "faq-3": {
           "type": "item",
           "settings": {
+            "expand_by_default": false,
+            "icon": "none",
             "title": "Do you offer returns or exchanges?",
             "text": "<p>Because each piece is made to order specifically for you, we cannot accept returns. However, if your piece arrives damaged or defective, please contact us within 7 days and we will make it right. Exchanges are available for sizing issues — just email us.</p>"
           }
@@ -443,6 +443,8 @@
         "faq-4": {
           "type": "item",
           "settings": {
+            "expand_by_default": false,
+            "icon": "none",
             "title": "How should I care for my jewelry?",
             "text": "<p><strong>Gold & Pearl pieces:</strong> Store in the provided pouch when not wearing. Avoid contact with perfume, hairspray, and harsh chemicals. Wipe gently with a soft cloth after wearing. Pearls are organic — they love being worn and benefit from the natural oils in your skin.</p><p><strong>Enamel rings:</strong> Enamel is durable but can chip on hard impact. Remove before heavy manual work. Clean with a soft damp cloth. Avoid ultrasonic cleaners.</p>"
           }
@@ -450,6 +452,8 @@
         "faq-5": {
           "type": "item",
           "settings": {
+            "expand_by_default": false,
+            "icon": "none",
             "title": "Do you ship internationally?",
             "text": "<p>Yes. We ship worldwide. International orders may be subject to customs duties and taxes, which are the responsibility of the buyer. All orders are shipped fully insured.</p>"
           }
@@ -457,6 +461,8 @@
         "faq-6": {
           "type": "item",
           "settings": {
+            "expand_by_default": false,
+            "icon": "none",
             "title": "Can I request a custom piece?",
             "text": "<p>We love custom commissions. If you have a vision for a special piece — a unique stone, a personalized design, or a modification to an existing piece — please reach out through our contact page and we'll discuss what's possible.</p>"
           }
@@ -464,6 +470,8 @@
         "faq-7": {
           "type": "item",
           "settings": {
+            "expand_by_default": false,
+            "icon": "none",
             "title": "What sizes are your rings?",
             "text": "<p>Draped in Time rings are adjustable open-band designs that fit most ring sizes (approximately US 5–9). Echoes rings are available in standard US sizes. If you're unsure of your size, we recommend visiting a local jeweler for a professional measurement.</p>"
           }
@@ -471,6 +479,8 @@
         "faq-8": {
           "type": "item",
           "settings": {
+            "expand_by_default": false,
+            "icon": "none",
             "title": "Are your pearls real?",
             "text": "<p>Yes. We use genuine freshwater pearls — solid nacre all the way through, not coated beads. Each pearl is unique in shape, size, and luster. Small natural variations are a sign of authenticity, not imperfection.</p>"
           }
@@ -495,6 +505,7 @@
         "subheading_tag": "h3",
         "subheading_font_class": "fs-heading-5-base",
         "item_heading_font": "heading",
+        "auto_collapse_rows": false,
         "enable_animation": true,
         "divider_style": "none",
         "section_padding": "section--vertical-padding-top-bottom",
@@ -649,7 +660,7 @@
   },
   "order": [
     "main",
-    "video_hero",
+    "image_hero_kBzBEK",
     "rich_text-1",
     "image_with_text_split",
     "rich_text-2",
