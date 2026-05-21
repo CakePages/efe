@@ -15,13 +15,13 @@
         "image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/fix-echoes-04-v8.jpg",
+            "image": "shopify://shop_images/fix-echoes-04-v8.jpg",
             "focal_point": "top",
             "mobile_focal_point": "image_presentation",
             "title": "Echoes",
             "heading_tag": "h2",
             "text": "",
-            "link": "\/collections\/echoes",
+            "link": "/collections/echoes",
             "link_text": "",
             "button_style": "btn--primary"
           }
@@ -29,13 +29,13 @@
         "image-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/hero-close-draped-01.jpg",
+            "image": "shopify://shop_images/hero-close-draped-01.jpg",
             "focal_point": "top",
             "mobile_focal_point": "center",
             "title": "Draped in Time",
             "heading_tag": "h2",
             "text": "",
-            "link": "\/collections\/draped-in-time",
+            "link": "/collections/draped-in-time",
             "link_text": "",
             "button_style": "btn--primary"
           }
@@ -140,7 +140,7 @@
         "button": {
           "type": "button",
           "settings": {
-            "link": "\/pages\/about",
+            "link": "/pages/about",
             "link_text": "Our Story",
             "button_style": "btn--callout"
           }
@@ -175,7 +175,7 @@
         "heading": "Discover our Collections",
         "heading_tag": "h2",
         "subheading": "",
-        "link": "\/collections",
+        "link": "/collections",
         "link_text": "",
         "button_style": "btn--callout",
         "columns": "4",
@@ -211,11 +211,11 @@
         "timer_complete_message": "",
         "heading": "New collection arriving soon",
         "heading_tag": "h4",
-        "text": "<p>Be the first to discover our newest pieces<\/p>",
-        "link": "shopify:\/\/collections",
+        "text": "<p>Be the first to discover our newest pieces</p>",
+        "link": "shopify://collections",
         "link_text": "Join the waitlist",
         "button_style": "btn--primary",
-        "image": "shopify:\/\/shop_images\/efemera-lifestyle-v5-symphonia-neck-intimate.jpg",
+        "image": "shopify://shop_images/efemera-lifestyle-v5-symphonia-neck-intimate.jpg",
         "focal_point": "image_presentation",
         "mobile_focal_point": "image_presentation",
         "background_color": "#f0ece8",
@@ -250,7 +250,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Pearls and precious stones. Timeless elegance for quiet moments and grand occasions. Each piece carries the organic beauty of nature, set in flowing gold.<\/p>",
+            "text": "<p>Pearls and precious stones. Timeless elegance for quiet moments and grand occasions. Each piece carries the organic beauty of nature, set in flowing gold.</p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -264,10 +264,10 @@
         "image_aspect": "custom",
         "desktop_height": 80,
         "mobile_height": 100,
-        "image": "shopify:\/\/shop_images\/efemera-lifestyle-homepage-03-hero-echoes-wide.jpg",
+        "image": "shopify://shop_images/efemera-lifestyle-homepage-03-hero-echoes-wide.jpg",
         "focal_point": "image_presentation",
         "mobile_focal_point": "image_presentation",
-        "media_link": "\/collections\/echoes",
+        "media_link": "/collections/echoes",
         "text_position": "flex-start_flex-end",
         "text_position_mobile": "center_center",
         "text_color": "#ffffff",
@@ -308,7 +308,7 @@
         "heading": "Featured Pieces",
         "heading_tag": "h2",
         "subheading": "",
-        "link": "\/collections\/all",
+        "link": "/collections/all",
         "link_text": "Shop all",
         "button_style": "btn--callout",
         "collection_tabs_mobile_display": "rows",
@@ -336,14 +336,14 @@
         "heading": "Welcome to Efemera",
         "heading_tag": "h2",
         "heading_font_class": "fs-heading-2-base",
-        "text": "<h3>Take 10% off your first piece. Every order ships in our signature gift box — ready to become part of your story.<\/h3>",
-        "link": "\/collections\/all",
+        "text": "<h3>Take 10% off your first piece. Every order ships in our signature gift box — ready to become part of your story.</h3>",
+        "link": "/collections/all",
         "link_text": "Use Code WELCOME10",
         "button_style": "btn--primary",
         "link_2": "",
         "link_text_2": "",
         "button_style_2": "btn--secondary",
-        "image": "shopify:\/\/shop_images\/efemera-lifestyle-v7-01-symphonia-macro-collarbone.jpg",
+        "image": "shopify://shop_images/efemera-lifestyle-v7-01-symphonia-macro-collarbone.jpg",
         "focal_point": "image_presentation",
         "mobile_focal_point": "center",
         "background_color": "#3d352f",
@@ -376,7 +376,7 @@
         "hotspot_qpeAK6"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/efemera-lifestyle-v3-symphonia-intimate.jpg",
+        "image": "shopify://shop_images/efemera-lifestyle-v3-symphonia-intimate.jpg",
         "image_position": "left",
         "image_size": 50,
         "aspect_ratio": "portrait_alt",
@@ -424,14 +424,14 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Bold color. Playful energy. Enamel rings that demand attention. Each one handcrafted with organic shapes and vivid patterns that celebrate the art of self-expression.<\/p>",
+            "text": "<p>Bold color. Playful energy. Enamel rings that demand attention. Each one handcrafted with organic shapes and vivid patterns that celebrate the art of self-expression.</p>",
             "text_font_class": "fs-body-100"
           }
         },
         "button": {
           "type": "button",
           "settings": {
-            "link": "\/collections\/draped-in-time",
+            "link": "/collections/draped-in-time",
             "link_text": "Shop Collection",
             "button_style": "btn--secondary"
           }
@@ -449,6 +449,7 @@
         "image_aspect": "custom",
         "desktop_height": 65,
         "mobile_height": 60,
+        "video": "shopify://files/videos/Efemera_Draped_Video.mp4",
         "media_link": "",
         "focal_point": "image_presentation",
         "focal_point_mobile": "image_presentation",
@@ -474,7 +475,7 @@
             "height": 800,
             "mobile_height": 700,
             "media_type": "image",
-            "image": "shopify:\/\/shop_images\/efemera-lifestyle-homepage-07-grid-echoes-moody.jpg",
+            "image": "shopify://shop_images/efemera-lifestyle-homepage-07-grid-echoes-moody.jpg",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
             "video_focal_point": "center",
@@ -488,7 +489,7 @@
             "subheading": "",
             "subheading_tag": "h4",
             "subheading_font_class": "fs-heading-6-base",
-            "text": "<p>Pearls and gold for life's quietest moments.<\/p>",
+            "text": "<p>Pearls and gold for life's quietest moments.</p>",
             "text_font_class": "fs-body-100",
             "link": "",
             "link_text": "",
@@ -509,7 +510,7 @@
             "height": 800,
             "mobile_height": 700,
             "media_type": "image",
-            "image": "shopify:\/\/shop_images\/efemera-lifestyle-homepage-08-grid-draped-evening-v2.jpg",
+            "image": "shopify://shop_images/efemera-lifestyle-homepage-08-grid-draped-evening-v2.jpg",
             "focal_point": "center",
             "mobile_focal_point": "image_presentation",
             "video_focal_point": "center",
@@ -523,7 +524,7 @@
             "subheading": "",
             "subheading_tag": "h3",
             "subheading_font_class": "fs-heading-6-base",
-            "text": "<p>Color that doesn't apologize.<\/p>",
+            "text": "<p>Color that doesn't apologize.</p>",
             "text_font_class": "fs-body-100",
             "link": "",
             "link_text": "",
@@ -609,7 +610,7 @@
         "quote-1": {
           "type": "quote",
           "settings": {
-            "quote": "<p>\"I've never seen jewelry that feels so personal. The Floating Light earrings are my everyday luxury.\"<\/p>",
+            "quote": "<p>\"I've never seen jewelry that feels so personal. The Floating Light earrings are my everyday luxury.\"</p>",
             "title": "Lauren H.",
             "quote_tag": "h4",
             "font_size": "large"
@@ -618,7 +619,7 @@
         "quote-2": {
           "type": "quote",
           "settings": {
-            "quote": "<p>\"The Butterfly ring gets compliments everywhere I go. It's bold but somehow goes with everything.\"<\/p>",
+            "quote": "<p>\"The Butterfly ring gets compliments everywhere I go. It's bold but somehow goes with everything.\"</p>",
             "title": "Jessica M.",
             "quote_tag": "h4",
             "font_size": "large"
@@ -627,7 +628,7 @@
         "quote-3": {
           "type": "quote",
           "settings": {
-            "quote": "<p>\"I wore the Gaia earrings on my wedding day. They were my something special.\"<\/p>",
+            "quote": "<p>\"I wore the Gaia earrings on my wedding day. They were my something special.\"</p>",
             "title": "Amanda R.",
             "quote_tag": "h4",
             "font_size": "large"
@@ -655,7 +656,7 @@
         "text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Just arrived<\/p>",
+            "text": "<p>Just arrived</p>",
             "text_font_class": "fs-body-200"
           }
         },
@@ -670,14 +671,14 @@
         "text-2": {
           "type": "text",
           "settings": {
-            "text": "<p>Delicate gold chains with organic pearl pendants. Designed to sit at the collarbone, catching light with every movement. Subtle, personal, timeless.<\/p>",
+            "text": "<p>Delicate gold chains with organic pearl pendants. Designed to sit at the collarbone, catching light with every movement. Subtle, personal, timeless.</p>",
             "text_font_class": "fs-body-100"
           }
         },
         "button": {
           "type": "button",
           "settings": {
-            "link": "\/collections\/echoes-necklaces",
+            "link": "/collections/echoes-necklaces",
             "link_text": "Shop Necklaces",
             "button_style": "btn--secondary"
           }
@@ -700,7 +701,7 @@
         "image_aspect": "custom",
         "desktop_height": 90,
         "mobile_height": 90,
-        "image": "shopify:\/\/shop_images\/efemera-lifestyle-homepage-06-hero-necklace.jpg",
+        "image": "shopify://shop_images/efemera-lifestyle-homepage-06-hero-necklace.jpg",
         "focal_point": "center",
         "mobile_focal_point": "center",
         "media_link": "",
@@ -726,10 +727,10 @@
             "heading": "",
             "heading_tag": "h3",
             "heading_font_class": "fs-heading-1-base",
-            "text": "<h2>We believe beauty is not only in the sparkle of gold or pearls, but in the <em>story each piece comes to hold<\/em> for the one who wears it.<\/h2>",
+            "text": "<h2>We believe beauty is not only in the sparkle of gold or pearls, but in the <em>story each piece comes to hold</em> for the one who wears it.</h2>",
             "text_font_class": "fs-body-300",
             "text_max_width": 100,
-            "link": "\/pages\/about",
+            "link": "/pages/about",
             "link_text": "Our Story",
             "button_style": "btn--callout"
           }
@@ -737,7 +738,7 @@
         "image_column": {
           "type": "image_column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/efemera-about-artisan-v2.jpg",
+            "image": "shopify://shop_images/efemera-about-artisan-v2.jpg",
             "image_width": 100,
             "aspect_ratio": "natural",
             "enable_image_crop_circle": false,
@@ -850,14 +851,14 @@
         "text_yNAnDA": {
           "type": "text",
           "settings": {
-            "text": "<p>Every piece begins the day you order it. 3–4 weeks of intention, delivered to your door.<\/p>",
+            "text": "<p>Every piece begins the day you order it. 3–4 weeks of intention, delivered to your door.</p>",
             "text_font_class": "fs-body-100"
           }
         },
         "button_Me48G4": {
           "type": "button",
           "settings": {
-            "link": "shopify:\/\/collections",
+            "link": "shopify://collections",
             "link_text": "Shop All Items",
             "button_style": "btn--secondary"
           }
@@ -874,10 +875,10 @@
         "image_aspect": "custom",
         "desktop_height": 100,
         "mobile_height": 100,
-        "image": "shopify:\/\/shop_images\/efemera-generated-draped-video-horizontal-golden-blossom-tuscan-1.jpg",
+        "image": "shopify://shop_images/efemera-generated-draped-video-horizontal-golden-blossom-tuscan-1.jpg",
         "focal_point": "image_presentation",
         "mobile_focal_point": "image_presentation",
-        "media_link": "shopify:\/\/collections",
+        "media_link": "shopify://collections",
         "text_position": "center_center",
         "text_position_mobile": "center_center",
         "text_color": "#FFFFFF",
