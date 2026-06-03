@@ -702,7 +702,7 @@
         "desktop_height": 90,
         "mobile_height": 90,
         "image": "shopify://shop_images/efemera-lifestyle-homepage-06-hero-necklace.jpg",
-        "focal_point": "center",
+        "focal_point": "left",
         "mobile_focal_point": "center",
         "media_link": "",
         "text_position": "flex-start_flex-end",
