@@ -96,12 +96,36 @@
             "aspect_ratio": "square",
             "thumbnail_width": 60
           }
+        },
+        "shop_mega_echoes": {
+          "type": "compact_meganav",
+          "settings": {
+            "dropdown_parent_link": "Shop",
+            "secondary_position": "right",
+            "promo_text": "Echoes \u2014 14k gold, pearls, gemstones.",
+            "link": "shopify://collections/echoes",
+            "link_text": "Shop Echoes",
+            "text_position": "middle-center"
+          }
+        },
+        "shop_mega_draped": {
+          "type": "compact_meganav",
+          "settings": {
+            "dropdown_parent_link": "Shop",
+            "secondary_position": "right",
+            "promo_text": "Draped in Time \u2014 sterling silver & hand-painted enamel.",
+            "link": "shopify://collections/draped-in-time",
+            "link_text": "Shop Draped in Time",
+            "text_position": "middle-center"
+          }
         }
       },
       "block_order": [
         "compact_meganav_aWXCW4",
         "full_width_meganav_WXyTTy",
-        "mobile_menu_images_cpJiWE"
+        "mobile_menu_images_cpJiWE",
+        "shop_mega_echoes",
+        "shop_mega_draped"
       ],
       "settings": {
         "layout": "logo-left_nav-center",
@@ -115,7 +139,7 @@
         "logo": "shopify://shop_images/Efemera_logo_Black.png",
         "logo_width": 100,
         "mobile_logo_width": 90,
-        "menu": "",
+        "menu": "main-menu",
         "secondary_menu": "",
         "featured_link_label": "",
         "featured_link_color": "#e8e4df",
