@@ -25,7 +25,7 @@
         "5a2005ed-4438-4c3e-9549-f61724bea26f": {
           "type": "announcement",
           "settings": {
-            "title": "<p>Free shipping on orders over $250</p>",
+            "title": "<p>Free shipping in the US</p>",
             "title_mobile": "",
             "link": ""
           }
@@ -101,26 +101,46 @@
           "type": "compact_meganav",
           "settings": {
             "dropdown_parent_link": "Shop",
+            "columns_width": 440,
+            "column_count": 2,
+            "show_column_borders": true,
+            "show_promo": true,
+            "promo_width": 440,
+            "promo_height": 250,
             "secondary_position": "right",
-            "promo_text": "Echoes \u2014 14k gold, pearls, gemstones",
+            "image": "shopify://shop_images/efemera-mega-menu-echoes.jpg",
+            "focal_point": "image_presentation",
+            "promo_text": "Echoes — 14k gold, pearls, gemstones",
             "link": "shopify://collections/echoes",
             "link_text": "Shop Echoes",
             "text_position": "middle-center",
-            "image": "shopify://shop_images/efemera-mega-menu-echoes.jpg",
-            "focal_point": "image_presentation"
+            "text_color": "#ffffff",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "#000000",
+            "overlay_opacity": 30
           }
         },
         "shop_mega_draped": {
           "type": "compact_meganav",
           "settings": {
             "dropdown_parent_link": "Shop",
+            "columns_width": 440,
+            "column_count": 2,
+            "show_column_borders": true,
+            "show_promo": true,
+            "promo_width": 440,
+            "promo_height": 250,
             "secondary_position": "right",
-            "promo_text": "Draped in Time \u2014 silver & enamel",
+            "image": "shopify://shop_images/efemera-mega-menu-draped.jpg",
+            "focal_point": "image_presentation",
+            "promo_text": "Draped in Time — silver & enamel",
             "link": "shopify://collections/draped-in-time",
             "link_text": "Shop Draped in Time",
             "text_position": "middle-center",
-            "image": "shopify://shop_images/efemera-mega-menu-draped.jpg",
-            "focal_point": "image_presentation"
+            "text_color": "#ffffff",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "#000000",
+            "overlay_opacity": 30
           }
         }
       },
