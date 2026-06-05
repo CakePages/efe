@@ -48,11 +48,11 @@
           "settings": {
             "title_tag": "h3",
             "icon_1": "gem",
-            "text_1": "<p>Handcrafted in NYC</p>",
+            "text_1": "<p>Handcrafted in NYC<\/p>",
             "icon_2": "moving-truck",
-            "text_2": "<p>Free insured shipping</p>",
+            "text_2": "<p>Free insured shipping<\/p>",
             "icon_3": "padlock",
-            "text_3": "<p>1-year warranty</p>",
+            "text_3": "<p>1-year warranty<\/p>",
             "icon_4": "none",
             "icon_5": "none",
             "icon_6": "none"
@@ -62,28 +62,28 @@
           "type": "accordion",
           "settings": {
             "column_placement": "right",
-            "content": "<ul><li><strong>Material:</strong> 14k yellow gold</li><li><strong>Stones:</strong> Freshwater pearls (3–5mm), green prehnite cabochon drop (~10mm)</li><li><strong>Total Length:</strong> Approximately 3–4cm from earlobe</li><li><strong>Weight:</strong> Light enough for all-day wear</li><li><strong>Closure:</strong> Post with butterfly back</li><li><strong>Collection:</strong> Echoes</li></ul>"
+            "content": "<ul><li><strong>Material:<\/strong> 14k yellow gold<\/li><li><strong>Stones:<\/strong> Freshwater pearls (3–5.5mm), Brazilian green amethyst cabochon drop (15.5 ct total)<\/li><li><strong>Total Length:<\/strong> Approximately 47mm (4.7cm) from earlobe<\/li><li><strong>Weight:<\/strong> Light enough for all-day wear<\/li><li><strong>Closure:<\/strong> Post with butterfly back<\/li><li><strong>Collection:<\/strong> Echoes<\/li><\/ul>"
           }
         },
         "accordion_size": {
           "type": "accordion",
           "settings": {
             "column_placement": "right",
-            "content": "<p>These earrings end just below the jawline — visible but delicate. The prehnite drop sways gently with movement. Comfortable for extended wear, light enough you may forget you have them on.</p>"
+            "content": "<p>These earrings end just below the jawline — visible but delicate. The prehnite drop sways gently with movement. Comfortable for extended wear, light enough you may forget you have them on.<\/p>"
           }
         },
         "accordion_care": {
           "type": "accordion",
           "settings": {
             "column_placement": "right",
-            "content": "<p>Put jewelry on last, take it off first. Wipe with a soft cloth after wearing. Store in the provided pouch. Avoid perfume, chlorine, and harsh chemicals. Pearls benefit from being worn — natural skin oils maintain their luster.</p>"
+            "content": "<p>Put jewelry on last, take it off first. Wipe with a soft cloth after wearing. Store in the provided pouch. Avoid perfume, chlorine, and harsh chemicals. Pearls benefit from being worn — natural skin oils maintain their luster.<\/p>"
           }
         },
         "accordion_shipping": {
           "type": "accordion",
           "settings": {
             "column_placement": "right",
-            "content": "<p>Handcrafted to order in NYC. Please allow 3–4 weeks for production. Free insured shipping on all orders. Signature required. You'll receive email updates during production and tracking when your piece ships.</p>"
+            "content": "<p>Handcrafted to order in NYC. Please allow 3–4 weeks for production. Free insured shipping on all orders. Signature required. You'll receive email updates during production and tracking when your piece ships.<\/p>"
           }
         },
         "share": {
@@ -162,7 +162,7 @@
             "heading_column_1": "Jewelry Care",
             "heading_font_class_column_1": "fs-heading-4-base",
             "heading_tag_column_1": "h3",
-            "text_column_1": "<p><strong>Gold & Pearl Pieces:</strong> Put jewelry on last, take it off first. Wipe with a soft cloth after wearing. Store in the provided pouch. Avoid perfume, chlorine, and harsh chemicals. Pearls love being worn — natural skin oils maintain their luster.</p><p><strong>Enamel Rings:</strong> Avoid hard impact. Remove for heavy work. Clean with a soft damp cloth. Never use ultrasonic cleaners on enamel.</p>",
+            "text_column_1": "<p><strong>Gold & Pearl Pieces:<\/strong> Put jewelry on last, take it off first. Wipe with a soft cloth after wearing. Store in the provided pouch. Avoid perfume, chlorine, and harsh chemicals. Pearls love being worn — natural skin oils maintain their luster.<\/p><p><strong>Enamel Rings:<\/strong> Avoid hard impact. Remove for heavy work. Clean with a soft damp cloth. Never use ultrasonic cleaners on enamel.<\/p>",
             "page_for_content_column_1": "",
             "custom_liquid_column_1": "",
             "text_font_class_column_1": "fs-body-100",
@@ -181,7 +181,7 @@
             "heading_column_1": "Made to Order",
             "heading_font_class_column_1": "fs-heading-4-base",
             "heading_tag_column_1": "h3",
-            "text_column_1": "<p>Every piece is handcrafted to order in NYC. Production takes 4–8 weeks. You'll receive email updates during production and tracking when it ships. All orders ship fully insured with signature required.</p>",
+            "text_column_1": "<p>Every piece is handcrafted to order in NYC. Production takes 4–8 weeks. You'll receive email updates during production and tracking when it ships. All orders ship fully insured with signature required.<\/p>",
             "page_for_content_column_1": "",
             "custom_liquid_column_1": "",
             "text_font_class_column_1": "fs-body-100",
@@ -190,7 +190,7 @@
             "heading_column_2": "Returns & Warranty",
             "heading_font_class_column_2": "fs-heading-4-base",
             "heading_tag_column_2": "h3",
-            "text_column_2": "<p>All sales are final — each piece is made specifically for you. 1-year warranty covers manufacturing defects. If your piece arrives damaged, contact us within 14 days with photos.</p>",
+            "text_column_2": "<p>All sales are final — each piece is made specifically for you. 1-year warranty covers manufacturing defects. If your piece arrives damaged, contact us within 14 days with photos.<\/p>",
             "page_for_content_column_2": "",
             "custom_liquid_column_2": "",
             "text_font_class_column_2": "fs-body-100",
@@ -227,7 +227,7 @@
             "heading": "Made in NYC",
             "heading_tag": "h3",
             "heading_font_class": "fs-heading-3-base",
-            "text": "<p>Every piece hand-carved, cast, and finished by skilled artisans in New York City.</p>",
+            "text": "<p>Every piece hand-carved, cast, and finished by skilled artisans in New York City.<\/p>",
             "text_font_class": "fs-body-300",
             "text_max_width": 100,
             "link": "",
@@ -242,7 +242,7 @@
             "heading": "14k Gold & Pearls",
             "heading_tag": "h3",
             "heading_font_class": "fs-heading-3-base",
-            "text": "<p>Ethically sourced freshwater pearls, natural gemstones, and hand-painted enamel on sterling silver.</p>",
+            "text": "<p>Ethically sourced freshwater pearls, natural gemstones, and hand-painted enamel on sterling silver.<\/p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
@@ -257,7 +257,7 @@
             "heading": "To Order",
             "heading_tag": "h3",
             "heading_font_class": "fs-heading-3-base",
-            "text": "<p>Nothing sits on a shelf. Your piece begins production the day you order it.</p>",
+            "text": "<p>Nothing sits on a shelf. Your piece begins production the day you order it.<\/p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 86,
             "link": "",
@@ -357,7 +357,7 @@
         "button": {
           "type": "button",
           "settings": {
-            "link": "/collections/echoes",
+            "link": "\/collections\/echoes",
             "link_text": "Explore Echoes",
             "button_style": "btn--secondary"
           }
