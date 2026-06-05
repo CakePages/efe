@@ -59,8 +59,8 @@
         "media_link": "",
         "text_position": "flex-start_flex-end",
         "text_position_mobile": "center_center",
-        "text_color": "#FFFFFF",
-        "button_background_color": "#FFFFFF",
+        "text_color": "#ffffff",
+        "button_background_color": "#ffffff",
         "button_text_color": "#000000",
         "color_overlay": "#000000",
         "color_overlay_gradient": "",
@@ -312,6 +312,7 @@
         },
         "image-7": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/efemera-about-stone-tourmaline.jpg",
             "focal_point": "image_presentation",
