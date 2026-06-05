@@ -15,6 +15,7 @@
         "show_breadcrumbs": false,
         "show_collection_description": true,
         "show_collection_image": true,
+        "image": "shopify://shop_images/efemera-generated-draped-video-horizontal-golden-blossom-tuscan-1.jpg",
         "image_aspect": "custom",
         "desktop_height": 50,
         "mobile_height": 50,
