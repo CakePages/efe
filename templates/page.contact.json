@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -78,7 +87,7 @@
           "type": "text_area",
           "settings": {
             "title": "Message",
-            "placeholder": "This is a demo. Your message will not be sent to a real store.",
+            "placeholder": "",
             "required": true,
             "height": 180,
             "width": "full"
@@ -186,11 +195,12 @@
         "title": "",
         "heading_tag": "h2",
         "heading_font_class": "fs-heading-3-base",
+        "heading_alignment": "left",
         "subheading": "",
         "subheading_tag": "h3",
         "subheading_font_class": "fs-heading-5-base",
-        "heading_alignment": "left",
         "item_heading_font": "heading",
+        "auto_collapse_rows": false,
         "enable_animation": true,
         "divider_style": "none",
         "section_padding": "section--vertical-padding-bottom-only",
@@ -212,6 +222,7 @@
         "button": {
           "type": "button",
           "settings": {
+            "link": "",
             "link_text": "View all FAQ",
             "button_style": "btn--primary"
           }
