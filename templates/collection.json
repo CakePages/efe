@@ -48,7 +48,7 @@
         "show_swatch_filters": true,
         "show_chip_filters": true,
         "chip_layout": "3col",
-        "pagination": "click",
+        "pagination": "infinite",
         "enable_animation": true,
         "divider_style": "solid"
       }
