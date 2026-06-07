@@ -229,7 +229,7 @@
         "heading": "Didn't find your answer?",
         "heading_tag": "h2",
         "text": "<p>Don't hesitate to reach out with any questions</p>",
-        "link": "shopify://collections",
+        "link": "shopify://pages/contact",
         "link_text": "Contact us",
         "button_style": "btn--primary",
         "focal_point": "image_presentation",
