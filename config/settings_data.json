@@ -75,12 +75,13 @@
     "quick_search_product_style": "columns",
     "quick_search_show_vendor": false,
     "quick_search_suggested_links": [],
-    "social_facebook_link": "#",
-    "social_instagram_link": "#",
-    "social_tiktok_link": "#",
+    "social_facebook_link": "",
+    "social_instagram_link": "https://www.instagram.com/efemerajewelry",
+    "social_tiktok_link": "",
     "enable_back_to_top": true,
     "product_card_swatch_size": "small",
-    "quick_search_max_result_size": 6
+    "quick_search_max_result_size": 6,
+    "content_for_index": []
   },
   "installed_preset_name": "Stiletto",
   "presets": {
