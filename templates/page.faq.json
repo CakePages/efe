@@ -153,7 +153,7 @@
             "expand_by_default": false,
             "icon": "none",
             "title": "When will my order be shipped?",
-            "text": "<p>This is an example of a response that you might give. It's good to be as thorough as possible in responses as that has a tendency to improve trust overall.</p>"
+            "text": "<p>Since each piece is uniquely crafted just for you, shipping depends on our detailed production process:</p><ul><li><strong>Production & QA (3–4 weeks):</strong> We cast the gold or silver, then hand-finish, polish, and complete any custom settings or enamel work. Every piece undergoes a rigorous Quality Assurance check.</li><li><strong>Shipping (Within 24 hours):</strong> As soon as your piece passes inspection, it will be safely packed and shipped out within 24 hours.</li></ul>"
           }
         },
         "item-3": {
