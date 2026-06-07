@@ -125,7 +125,7 @@
           "settings": {
             "dropdown_parent_link": "Shop",
             "columns_width": 440,
-            "column_count": 2,
+            "column_count": 3,
             "show_column_borders": true,
             "show_promo": true,
             "promo_width": 440,
