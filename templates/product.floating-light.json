@@ -429,6 +429,7 @@
         "image_aspect": "custom",
         "desktop_height": 60,
         "mobile_height": 65,
+        "image": "shopify://shop_images/efemera-keep-generated-v6-12-lunmare-yoga.jpg",
         "focal_point": "center",
         "mobile_focal_point": "center",
         "media_link": "",
