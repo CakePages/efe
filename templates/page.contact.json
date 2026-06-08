@@ -222,7 +222,7 @@
         "button": {
           "type": "button",
           "settings": {
-            "link": "",
+            "link": "shopify://pages/faq",
             "link_text": "View all FAQ",
             "button_style": "btn--primary"
           }
