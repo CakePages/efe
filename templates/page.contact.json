@@ -172,7 +172,7 @@
             "expand_by_default": false,
             "icon": "none",
             "title": "Do you ship internationally?",
-            "text": "<p>Yes, we do. We ship all international orders via<strong>UPS Worldwide Expedited</strong>. As soon as your shipping label is created, we will email you a tracking number so you can follow your package every step of the way.</p>"
+            "text": "<p>Yes, we do. We ship all international orders via <strong>UPS Worldwide Expedited</strong>. As soon as your shipping label is created, we will email you a tracking number so you can follow your package every step of the way.</p>"
           }
         },
         "item-4": {
