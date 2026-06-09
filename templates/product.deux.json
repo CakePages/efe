@@ -271,6 +271,7 @@
         "desktop_height": 60,
         "mobile_height": 65,
         "image": "shopify://shop_images/efemera-keep-generated-v4-deux-square-model.jpg",
+        "image_mobile": "shopify://shop_images/efemera-keep-generated-v4-deux-square-model.jpg",
         "focal_point": "center",
         "mobile_focal_point": "center",
         "media_link": "",
