@@ -59,6 +59,7 @@
         },
         "callouts": {
           "type": "product_callouts",
+          "disabled": true,
           "settings": {
             "title": "",
             "title_tag": "h3",
@@ -74,6 +75,30 @@
             "text_4": "",
             "icon_5": "none",
             "text_5": "",
+            "icon_6": "none",
+            "text_6": "",
+            "display_as_collapsible_row": false,
+            "expand_by_default": false,
+            "icon": "none"
+          }
+        },
+        "product_callouts_6NiNLT": {
+          "type": "product_callouts",
+          "settings": {
+            "title": "",
+            "title_tag": "h3",
+            "add_box": true,
+            "add_dividers": true,
+            "icon_1": "cotton",
+            "text_1": "<p><strong>Sterling Silver</strong> · Hand-Painted Enamel</p>",
+            "icon_2": "measuring-tape",
+            "text_2": "<p>Sizes 3–9 · <strong>Order ½ size up</strong></p>",
+            "icon_3": "stiletto",
+            "text_3": "<p>Handcrafted in NYC</p>",
+            "icon_4": "moving-truck",
+            "text_4": "<p>Free insured shipping · 1-year warranty</p>",
+            "icon_5": "bill",
+            "text_5": "<p><strong>Made to order</strong> · 3–4 week production</p>",
             "icon_6": "none",
             "text_6": "",
             "display_as_collapsible_row": false,
@@ -148,6 +173,7 @@
         "variant_picker",
         "buy_buttons",
         "callouts",
+        "product_callouts_6NiNLT",
         "accordion_details",
         "accordion_size",
         "accordion_care",
