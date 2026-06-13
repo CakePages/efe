@@ -83,6 +83,7 @@
         },
         "accordion_details": {
           "type": "accordion",
+          "disabled": true,
           "settings": {
             "expand_by_default": false,
             "column_placement": "right",
@@ -96,6 +97,7 @@
         },
         "accordion_size": {
           "type": "accordion",
+          "disabled": true,
           "settings": {
             "expand_by_default": false,
             "column_placement": "right",
@@ -109,6 +111,7 @@
         },
         "accordion_care": {
           "type": "accordion",
+          "disabled": true,
           "settings": {
             "expand_by_default": false,
             "column_placement": "right",
@@ -122,6 +125,7 @@
         },
         "accordion_shipping": {
           "type": "accordion",
+          "disabled": true,
           "settings": {
             "expand_by_default": false,
             "column_placement": "right",
