@@ -17,7 +17,7 @@
           "settings": {
             "show_divider": true,
             "show_vendor": true,
-            "show_sku": true,
+            "show_sku": false,
             "show_discount": true,
             "discount_format": "percent_off",
             "show_product_rating": false,
