@@ -461,6 +461,7 @@
         },
         "faq-6": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "expand_by_default": false,
             "icon": "none",
