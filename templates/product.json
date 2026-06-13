@@ -355,6 +355,19 @@
     "testimonials": {
       "type": "testimonials",
       "blocks": {
+        "testimonial_RXArmK": {
+          "type": "testimonial",
+          "settings": {
+            "product": "",
+            "image_position": "right",
+            "aspect_ratio": "square",
+            "focal_point": "image_presentation",
+            "show_rating": true,
+            "rating": 5,
+            "quote": "“Add customer reviews and testimonials to showcase your store's happy customers.”",
+            "author": "- Author's name"
+          }
+        },
         "review-1": {
           "type": "testimonial",
           "settings": {
@@ -383,9 +396,11 @@
         }
       },
       "block_order": [
+        "testimonial_RXArmK",
         "review-1",
         "review-2"
       ],
+      "disabled": true,
       "settings": {
         "image_size": "large",
         "quote_font": "heading",
@@ -427,6 +442,7 @@
         "heading",
         "button"
       ],
+      "disabled": true,
       "settings": {
         "image_aspect": "custom",
         "desktop_height": 60,
@@ -500,6 +516,7 @@
         "text_izGRTC",
         "image_kN83bd"
       ],
+      "disabled": true,
       "settings": {
         "font_choice": "ff-heading",
         "text_font_class": "fs-heading-2-base",
