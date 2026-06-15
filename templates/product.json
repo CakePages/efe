@@ -502,6 +502,7 @@
         "text_izGRTC",
         "image_kN83bd"
       ],
+      "disabled": true,
       "settings": {
         "font_choice": "ff-heading",
         "text_font_class": "fs-heading-2-base",
