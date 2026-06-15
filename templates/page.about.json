@@ -59,8 +59,8 @@
         "media_link": "",
         "text_position": "flex-start_flex-end",
         "text_position_mobile": "center_center",
-        "text_color": "#ffffff",
-        "button_background_color": "#ffffff",
+        "text_color": "#FFFFFF",
+        "button_background_color": "#FFFFFF",
         "button_text_color": "#000000",
         "color_overlay": "#000000",
         "color_overlay_gradient": "",
@@ -181,7 +181,7 @@
         "image_position": "right",
         "image_mobile_position": "above-content",
         "image_padding": "none",
-        "image": "shopify://shop_images/NYC.png",
+        "image": "shopify://shop_images/efemera-generated-homepage-nyc-culture-3.jpg",
         "aspect_ratio": "square",
         "focal_point": "image_presentation",
         "content_alignment": "left",
@@ -270,8 +270,8 @@
           "settings": {
             "image": "shopify://shop_images/efemera-about-materials-pearls.jpg",
             "focal_point": "image_presentation",
-            "title": "Japanese Akoya Pearl",
-            "text": "<p>Celebrated for their exceptional luster and beautifully round shape, they offer a modern expression of timeless craftmanship. Their luminous beauty and refined character bring depth, elegance, and a sense of understated luxury to every piece. </p>"
+            "title": "Freshwater Pearls",
+            "text": "<p>Solid nacre all the way through. Thousands of microscopic aragonite layers create luster through the same physics that makes the sky blue. No two pearls reflect light identically. We choose baroque shapes because they belong in nature, not a display case.</p>"
           }
         },
         "image-3": {
@@ -295,29 +295,28 @@
         "image-5": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Screenshot_2026-06-11_at_11.07.41_AM.png",
+            "image": "shopify://shop_images/efemera-about-stone-moonstone.jpg",
             "focal_point": "image_presentation",
             "title": "Moonstone",
-            "text": "<p>That floating blue glow comes from microscopic layers formed when ancient magma cooled. Two feldspar species separated at the molecular level, scattering light the same way the sky turns blue. </p>"
+            "text": "<p>That floating blue glow comes from microscopic layers formed when ancient magma cooled. Two feldspar species separated at the molecular level, scattering light the same way the sky turns blue. We cut every moonstone as a cabochon to focus the glow.</p>"
           }
         },
         "image-6": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Screenshot_2026-06-11_at_11.14.19_AM.png",
+            "image": "shopify://shop_images/efemera-about-stone-aquamarine.jpg",
             "focal_point": "image_presentation",
-            "title": "Tourmaline",
-            "text": "<p>African tourmaline is prized for its wide range of natural colors and bright luster. Formed over millions of years, each gemstone displays its own unique character, bringing vibrant depth and refined elegance. </p>"
+            "title": "Aquamarine",
+            "text": "<p>Latin for \"water of the sea.\" Iron traces in beryl crystal create the blue-green. We cut ours as cabochons — where faceted aquamarine looks like ice, a cabochon looks like the sea. A deep, still pool of color that glows from within.</p>"
           }
         },
         "image-7": {
           "type": "image",
-          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/efemera-about-stone-tourmaline.jpg",
+            "image": "shopify://shop_images/efemera-about-materials-pearls.jpg",
             "focal_point": "image_presentation",
-            "title": "African Tourmaline",
-            "text": "<p>From artisanal mines in Mozambique and Tanzania. Its crystal structure incorporates nearly every element — more colors than any other gemstone. We choose African sources for the extraordinary saturation and the traceable supply chain.</p>"
+            "title": "Japanese Akoya Pearls",
+            "text": "<p>Round Japanese Akoya pearls bring a refined, luminous glow to the Echoes collection. Their smooth shape and mirrorlike luster create a quiet contrast against organic gold forms and baroque freshwater pearls.</p>"
           }
         }
       },
@@ -383,7 +382,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Echoes</strong> — Pearls and precious stones set in flowing organic 14k gold. Freshwater pearls, African tourmaline, moonstone, and aquamarine — nature's own treasures, held in forms inspired by tide pools, coral, and winter branches. Timeless elegance for quiet moments and grand occasions.</p><p><strong>Draped in Time</strong> — Bold hand-painted enamel on sterling silver. Chunky organic shapes draped like fabric, alive with polka dots, marble swirls, and vivid color. Each ring is a small act of self-expression — playful, confident, and impossible to ignore.</p>",
+            "text": "<p><strong>Echoes</strong> — Pearls and precious stones set in flowing organic 14k gold. Freshwater pearls, Japanese Akoya pearls, moonstone, aquamarine, and tourmaline — nature's own treasures, held in forms inspired by tide pools, coral, and winter branches. Timeless elegance for quiet moments and grand occasions.</p><p><strong>Draped in Time</strong> — Bold hand-painted enamel on sterling silver. Chunky organic shapes draped like fabric, alive with polka dots, marble swirls, and vivid color. Each ring is a small act of self-expression — playful, confident, and impossible to ignore.</p>",
             "text_font_class": "fs-body-100"
           }
         },
@@ -429,7 +428,7 @@
             "expand_by_default": false,
             "icon": "none",
             "title": "What materials do you use?",
-            "text": "<p><strong>Echoes Collection:</strong> 14k yellow gold, Japanese Akoya pearls, freshwater pearls, African tourmaline, moonstone, and natural diamonds. All gemstones and pearls are ethically sourced.</p><p><strong>Draped in Time Collection:</strong> Sterling silver (925) with hand-painted enamel. Each ring features unique patterns applied by hand — no two are identical.</p>"
+            "text": "<p><strong>Echoes Collection:</strong> 14k yellow gold, freshwater pearls, Japanese Akoya pearls, moonstone, aquamarine, and tourmaline. All stones are ethically sourced.</p><p><strong>Draped in Time Collection:</strong> Sterling silver (925) with hand-painted enamel. Each ring features unique patterns applied by hand — no two are identical.</p>"
           }
         },
         "faq-3": {
@@ -461,7 +460,6 @@
         },
         "faq-6": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "expand_by_default": false,
             "icon": "none",
@@ -475,7 +473,7 @@
             "expand_by_default": false,
             "icon": "none",
             "title": "What sizes are your rings?",
-            "text": "<p>Our rings are available in standard US ring sizes and are crafted specifically in the size you select. </p>"
+            "text": "<p>Draped in Time rings are made to order in your selected size. Echoes rings are available in standard US sizes. If you're unsure of your size, we recommend visiting a local jeweler for a professional measurement.</p>"
           }
         },
         "faq-8": {
@@ -484,7 +482,7 @@
             "expand_by_default": false,
             "icon": "none",
             "title": "Are your pearls real?",
-            "text": "<p>Yes. We use genuine Japanese Akoya pearls, renowned for their luminous glow and refined beauty. Their mirror-like luster lends a quiet sophistication to every piece.<br/><br/>For our teardrop designs, we use fresh water pearls. Each pearl is unique in shape, size, and luster. These subtle variations are part of their unique character and beauty. </p>"
+            "text": "<p>Yes. We use genuine freshwater pearls — solid nacre all the way through, not coated beads. Each pearl is unique in shape, size, and luster. Small natural variations are a sign of authenticity, not imperfection.</p>"
           }
         }
       },
