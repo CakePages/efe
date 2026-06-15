@@ -386,6 +386,7 @@
         "review-1",
         "review-2"
       ],
+      "disabled": true,
       "settings": {
         "image_size": "large",
         "quote_font": "heading",
@@ -427,6 +428,7 @@
         "heading",
         "button"
       ],
+      "disabled": true,
       "settings": {
         "image_aspect": "custom",
         "desktop_height": 60,
