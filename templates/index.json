@@ -198,7 +198,6 @@
     },
     "countdown_bar_B8QKnT": {
       "type": "countdown-bar",
-      "disabled": true,
       "settings": {
         "min_height": 60,
         "min_height_mobile": 60,
@@ -265,7 +264,7 @@
         "image_aspect": "custom",
         "desktop_height": 80,
         "mobile_height": 100,
-        "image": "shopify://shop_images/efemera-keep-generated-v6-05-solmare-seaside.jpg",
+        "image": "shopify://shop_images/efemera-keep-generated-v6-04-dew-petal-garden_60be41f2-2a26-4a9f-bf25-29c8efb51b86.jpg",
         "focal_point": "image_presentation",
         "mobile_focal_point": "image_presentation",
         "media_link": "/collections/echoes",
@@ -323,7 +322,6 @@
     },
     "sales-banner": {
       "type": "sales-banner",
-      "disabled": true,
       "settings": {
         "min_height": 460,
         "min_height_mobile": 500,
@@ -414,7 +412,7 @@
           "settings": {
             "title": "Draped in Time",
             "heading_tag": "h2",
-            "heading_font_class": "fs-heading-display-3"
+            "heading_font_class": "fs-heading-display-1"
           }
         },
         "spacer-2": {
@@ -427,7 +425,7 @@
           "type": "text",
           "settings": {
             "text": "<p>Bold color. Playful energy. Enamel rings that demand attention. Each one handcrafted with organic shapes and vivid patterns that celebrate the art of self-expression.</p>",
-            "text_font_class": "fs-body-75"
+            "text_font_class": "fs-body-100"
           }
         },
         "button": {
@@ -451,18 +449,18 @@
         "image_aspect": "custom",
         "desktop_height": 65,
         "mobile_height": 60,
-        "video": "shopify://files/videos/Efemera_Draped_Video_RC.mov",
+        "video": "shopify://files/videos/Efemera_Draped_Video_no-toast_web-muted.mp4",
         "media_link": "",
         "focal_point": "image_presentation",
         "focal_point_mobile": "image_presentation",
-        "text_position": "center_flex-start",
-        "text_position_mobile": "center_flex-start",
+        "text_position": "flex-start_flex-start",
+        "text_position_mobile": "center_center",
         "text_color": "#ffffff",
         "button_background_color": "#ffffff",
         "button_text_color": "#000000",
         "color_overlay": "#000000",
         "color_overlay_gradient": "",
-        "overlay_opacity": 20,
+        "overlay_opacity": 40,
         "enable_animation": true,
         "section_padding": "section--vertical-padding-bottom-only"
       }
@@ -477,13 +475,13 @@
             "height": 800,
             "mobile_height": 700,
             "media_type": "image",
-            "image": "shopify://shop_images/efemera-keep-generated-v5-ebb-flow-portrait.jpg",
+            "image": "shopify://shop_images/efemera-lifestyle-homepage-07-grid-echoes-moody.jpg",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
             "video_focal_point": "center",
             "mobile_video_focal_point": "center",
             "media_fit": "cover",
-            "text_position": "center_flex-end",
+            "text_position": "center_center",
             "accent": "",
             "title": "Timeless Elegance",
             "heading_tag": "h3",
@@ -518,7 +516,7 @@
             "video_focal_point": "center",
             "mobile_video_focal_point": "center",
             "media_fit": "cover",
-            "text_position": "center_flex-end",
+            "text_position": "center_center",
             "accent": "",
             "title": "Bold Expression",
             "heading_tag": "h2",
@@ -704,7 +702,6 @@
         "desktop_height": 90,
         "mobile_height": 90,
         "image": "shopify://shop_images/efemera-lifestyle-homepage-06-hero-necklace.jpg",
-        "image_mobile": "shopify://shop_images/efemera-lifestyle-homepage-06-hero-necklace.jpg",
         "focal_point": "left",
         "mobile_focal_point": "center",
         "media_link": "",
