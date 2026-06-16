@@ -17,7 +17,7 @@
           "settings": {
             "show_divider": true,
             "show_vendor": true,
-            "show_sku": true,
+            "show_sku": false,
             "show_discount": true,
             "discount_format": "percent_off",
             "show_product_rating": false,
@@ -159,7 +159,7 @@
             "heading_column_1": "Jewelry Care",
             "heading_font_class_column_1": "fs-heading-4-base",
             "heading_tag_column_1": "h3",
-            "text_column_1": "<p><strong>Enamel Rings:</strong> Remove before washing hands, swimming, or exercise. Enamel is durable but can chip on hard impacts — avoid knocking against hard surfaces. Store in the provided pouch, separate from other jewelry. Clean with a soft, dry cloth. Do not use jewelry cleaners or ultrasonic cleaners on enamel.</p>",
+            "text_column_1": "<p><strong>Enamel Rings:</strong> Remove before washing hands, swimming, or exercise. Enamel is durable but can chip on hard impacts — avoid knocking against hard surfaces. Store in the box, separate from other jewelry. Clean with a soft, dry cloth. Do not use jewelry cleaners or ultrasonic cleaners on enamel.</p>",
             "page_for_content_column_1": "",
             "custom_liquid_column_1": "",
             "text_font_class_column_1": "fs-body-100",
@@ -178,7 +178,7 @@
             "heading_column_1": "Made to Order",
             "heading_font_class_column_1": "fs-heading-4-base",
             "heading_tag_column_1": "h3",
-            "text_column_1": "<p>Every ring is handcrafted to order in NYC. Please allow 3–4 weeks for production. Free insured shipping on all orders. Signature required on delivery. You'll receive email updates during production and tracking when your piece ships.</p>",
+            "text_column_1": "<p>Every ring is handcrafted to order in NYC. The enamel process alone requires multiple firings over several days. Please allow 3–4 weeks for production. Free insured shipping on all orders. Signature required on delivery. You'll receive email updates during production and tracking when your piece ships.</p>",
             "page_for_content_column_1": "",
             "custom_liquid_column_1": "",
             "text_font_class_column_1": "fs-body-100",
@@ -275,7 +275,7 @@
         "mobile_focal_point": "center",
         "media_link": "",
         "text_position": "flex-end_flex-end",
-        "text_position_mobile": "center_center",
+        "text_position_mobile": "center_flex-end",
         "text_color": "#f5f5f5",
         "button_background_color": "#ffffff",
         "button_text_color": "#000000",
@@ -294,6 +294,7 @@
           "settings": {
             "product": "aqua-dream",
             "image_position": "right",
+            "image": "shopify://shop_images/EFR0017-1.jpg",
             "aspect_ratio": "square",
             "focal_point": "image_presentation",
             "show_rating": true,
@@ -307,6 +308,7 @@
           "settings": {
             "product": "aqua-dream",
             "image_position": "right",
+            "image": "shopify://shop_images/EFR0017-2.jpg",
             "aspect_ratio": "square",
             "focal_point": "image_presentation",
             "show_rating": true,
@@ -320,6 +322,7 @@
           "settings": {
             "product": "aqua-dream",
             "image_position": "right",
+            "image": "shopify://shop_images/EFR0017-1.jpg",
             "aspect_ratio": "square",
             "focal_point": "image_presentation",
             "show_rating": true,
@@ -333,6 +336,7 @@
           "settings": {
             "product": "aqua-dream",
             "image_position": "right",
+            "image": "shopify://shop_images/EFR0017-1.jpg",
             "aspect_ratio": "square",
             "focal_point": "image_presentation",
             "show_rating": true,

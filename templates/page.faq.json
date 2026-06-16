@@ -75,22 +75,13 @@
     "collapsible-row-list-1": {
       "type": "collapsible-row-list",
       "blocks": {
-        "item-1": {
-          "type": "item",
-          "settings": {
-            "expand_by_default": false,
-            "icon": "none",
-            "title": "How do I make a purchase?",
-            "text": "<p>Choose your piece, select any available size or option, and add it to your cart. Checkout will guide you through shipping and payment. Once your order is placed, you'll receive a confirmation email with your order details.</p>"
-          }
-        },
         "item-2": {
           "type": "item",
           "settings": {
             "expand_by_default": false,
             "icon": "none",
             "title": "How do I know if my order is confirmed?",
-            "text": "<p>You will receive an order confirmation email shortly after checkout. If you do not see it within a few minutes, please check your spam folder and then contact us so we can confirm the order for you.</p>"
+            "text": "<p>An email confirmation will hit your inbox right after checkout. Since everything is made-to-order, we will keep you posted with updates when your piece enters production and when it officially ships with your tracking link.</p>"
           }
         },
         "item-3": {
@@ -99,34 +90,24 @@
             "expand_by_default": false,
             "icon": "none",
             "title": "Can I change my shipping address after my order is placed?",
-            "text": "<p>Please contact us as soon as possible if your shipping address needs to be updated. We can usually adjust the address before the order ships, but once tracking has been created we may not be able to redirect the package.</p>"
-          }
-        },
-        "item-4": {
-          "type": "item",
-          "settings": {
-            "expand_by_default": false,
-            "icon": "none",
-            "title": "Can I change my billing address after placing my order?",
-            "text": "<p>For payment security, billing details generally cannot be changed after checkout. If you notice an issue on your order, please contact us and we will help review the best next step.</p>"
+            "text": "<p>Yes, we can help with that! Just reach out to us at support@efemerajewelry.com as soon as possible. We can change your address before your shipping label is made. Please include your name, order number, and your new address in the email.<br/><br/></p>"
           }
         }
       },
       "block_order": [
-        "item-1",
         "item-2",
-        "item-3",
-        "item-4"
+        "item-3"
       ],
       "settings": {
         "title": "Orders",
         "heading_tag": "h2",
         "heading_font_class": "fs-heading-2-base",
+        "heading_alignment": "left",
         "subheading": "",
         "subheading_tag": "h3",
         "subheading_font_class": "fs-heading-4-base",
-        "heading_alignment": "left",
         "item_heading_font": "heading",
+        "auto_collapse_rows": false,
         "enable_animation": false,
         "divider_style": "none",
         "section_padding": "section--vertical-padding-bottom-only",
@@ -143,7 +124,7 @@
             "expand_by_default": false,
             "icon": "none",
             "title": "Do you ship internationally?",
-            "text": "<p>Yes. Efemera ships worldwide. International orders may be subject to customs duties, taxes, or import fees, which are the responsibility of the customer.</p>"
+            "text": "<p>Yes, we do. We ship all international orders via <strong>UPS Worldwide Expedited</strong>. As soon as your shipping label is created, we will email you a tracking number so you can follow your package every step of the way.</p>"
           }
         },
         "item-2": {
@@ -152,7 +133,7 @@
             "expand_by_default": false,
             "icon": "none",
             "title": "When will my order be shipped?",
-            "text": "<p>Every Efemera piece is made to order by hand in New York City. Please allow 3–4 weeks for production. Once your piece ships, you'll receive a confirmation email with tracking information.</p>"
+            "text": "<p>Since each piece is uniquely crafted just for you, shipping depends on our detailed production process:</p><ul><li><strong>Production & QA (3–4 weeks):</strong> We cast the gold or silver, then hand-finish, polish, and complete any custom settings or enamel work. Every piece undergoes a rigorous Quality Assurance check.</li><li><strong>Shipping (Within 24 hours):</strong> As soon as your piece passes inspection, it will be safely packed and shipped out within 24 hours.</li></ul>"
           }
         },
         "item-3": {
@@ -161,7 +142,7 @@
             "expand_by_default": false,
             "icon": "none",
             "title": "How long will it take until I receive my order?",
-            "text": "<p>After shipment, delivery typically takes 3–5 business days within the United States and 7–14 business days internationally. International delivery times can vary depending on customs processing.</p>"
+            "text": "<p>You can expect to receive your order approximately <strong>5 weeks</strong> after placing it. This total timeline includes our <strong>3 to 4 weeks of dedicated production and quality checks</strong>, plus shipping transit time. We will send you a tracking number the moment it's on its way so you can monitor its arrival!</p>"
           }
         },
         "item-4": {
@@ -169,8 +150,8 @@
           "settings": {
             "expand_by_default": false,
             "icon": "none",
-            "title": "What is your return policy?",
-            "text": "<p>Because each piece is made to order specifically for you, we cannot accept returns. If your piece arrives damaged or defective, please contact us within 7 days of delivery and we will make it right. Exchanges are available for sizing issues; email us and we will help.</p>"
+            "title": "What is your return and exchange policy?",
+            "text": "<p>We offer <strong>exchanges or store credit only</strong> (no refunds) for eligible items within <strong>10 days of delivery</strong>.</p><ul><li><strong>Rings & Custom Orders:</strong> Because most of our rings are custom made-to-size, they are generally final sale.</li><li><strong>The Draped in Time Exception:</strong> For rings in our <strong>Draped in Time</strong> collection, if your original doesn't fit well, we gladly offer a <strong>one-time exchange for the exact same ring in a different size</strong>. This must be requested within 10 days of delivery, and the ring must be undamaged and return with all original packaging.</li></ul><p>To start an exchange, email us at support@efemerajewelry.com. Read our full Return and Exchange Policy here.</p>"
           }
         }
       },
@@ -184,11 +165,12 @@
         "title": "Shipping & Returns",
         "heading_tag": "h2",
         "heading_font_class": "fs-heading-3-base",
+        "heading_alignment": "left",
         "subheading": "",
         "subheading_tag": "h3",
         "subheading_font_class": "fs-heading-5-base",
-        "heading_alignment": "left",
         "item_heading_font": "heading",
+        "auto_collapse_rows": false,
         "enable_animation": false,
         "divider_style": "none",
         "section_padding": "section--vertical-padding-bottom-only",
@@ -205,16 +187,7 @@
             "expand_by_default": false,
             "icon": "none",
             "title": "What size should I order?",
-            "text": "<p>Draped in Time rings are made to order in your selected size. Echoes rings are available in standard US sizes. If you're unsure of your size, we recommend visiting a local jeweler for a professional measurement before ordering.</p>"
-          }
-        },
-        "item-2": {
-          "type": "item",
-          "settings": {
-            "expand_by_default": false,
-            "icon": "none",
-            "title": "Where can I find information on sustainability?",
-            "text": "<p>Efemera pieces are made to order in small quantities, which helps avoid excess inventory. We use 14k yellow gold, sterling silver, freshwater pearls, Japanese Akoya pearls, moonstone, aquamarine, tourmaline, and hand-painted enamel, with natural variations expected in each finished piece.</p>"
+            "text": "<p>Most of our pieces fit true to size, but some of our <em>Draped in Time</em> rings feature a wider, fuller band. For those specific styles, we recommend sizing up a half or full size so it sits comfortably on your finger! We’ve added a special sizing note to the description of each product page to guide you, but if you're ever unsure, feel free to reach out</p>"
           }
         },
         "item-3": {
@@ -223,24 +196,24 @@
             "expand_by_default": false,
             "icon": "none",
             "title": "Do you offer gift cards?",
-            "text": "<p>Not at this moment. If you're shopping for a gift and need help choosing a piece, please contact us and we can help guide you toward something special.</p>"
+            "text": "<p>We don’t offer them at the moment, but we’re working on bringing gift cards to the shop soon! Sign up for our newsletter to stay in the loop on all of our upcoming updates</p>"
           }
         }
       },
       "block_order": [
         "item-1",
-        "item-2",
         "item-3"
       ],
       "settings": {
         "title": "Our Products",
         "heading_tag": "h2",
         "heading_font_class": "fs-heading-3-base",
+        "heading_alignment": "left",
         "subheading": "",
         "subheading_tag": "h3",
         "subheading_font_class": "fs-heading-5-base",
-        "heading_alignment": "left",
         "item_heading_font": "heading",
+        "auto_collapse_rows": false,
         "enable_animation": false,
         "divider_style": "none",
         "section_padding": "section--vertical-padding-bottom-only",
@@ -256,14 +229,15 @@
         "heading": "Didn't find your answer?",
         "heading_tag": "h2",
         "text": "<p>Don't hesitate to reach out with any questions</p>",
+        "link": "shopify://pages/contact",
         "link_text": "Contact us",
         "button_style": "btn--primary",
         "focal_point": "image_presentation",
         "mobile_focal_point": "image_presentation",
+        "background_color": "#2b3135",
         "text_color": "#f7f7e8",
         "button_background_color": "#faf7c3",
         "button_text_color": "#2b3135",
-        "background_color": "#2b3135",
         "color_overlay": "#000000",
         "color_overlay_gradient": "",
         "overlay_opacity": 0,
